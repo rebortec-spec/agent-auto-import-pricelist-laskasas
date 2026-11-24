@@ -1,0 +1,11 @@
+﻿{
+    "project_name":  "Pricelist Laskasas",
+    "group_jid":  "120363XXXXXXXXXXXX@g.us",
+    "group_name":  "Pricelist Laskasas",
+    "contact_name":  "Ana Monteiro",
+    "supervisor_phone":  "351XXXXXXXXX@s.whatsapp.net",
+    "evolution_url":  "http://HOST:8080",
+    "instance":  "rebortec",
+    "apikey_env":  "EVOLUTION_APIKEY",
+    "notes":  "Copiar para laskasas_whatsapp.json (ou correr scripts/setup.py). Nunca usar contactos individuais deste projeto."
+}

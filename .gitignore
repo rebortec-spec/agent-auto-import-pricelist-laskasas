@@ -1,0 +1,33 @@
+﻿# Segredos e dados locais (nunca no repositorio)
+.env
+*.key
+secrets.json
+config/laskasas_whatsapp.json
+config/project_context.json
+config/*_state.json
+config/*.pid
+
+# Servicos / logs / mensagens reais
+logs/
+docs/inbox_laskasas.jsonl
+docs/ultimo_tratado.txt
+scratch_*.txt
+
+# PDFs grandes (guardar fora do git)
+*.pdf
+
+# Scripts de outro projeto (Praddy/Bruno) com chaves e contactos
+scripts/evolution_client.py
+scripts/project_whatsapp_listener.py
+scripts/whatsapp_daemon_global.py
+
+# Python / sistema / ferramentas
+__pycache__/
+*.pyc
+.venv/
+.claude/
+.DS_Store
+Thumbs.db
+
+# Template de outro projeto (contem contactos)
+templates_ia/

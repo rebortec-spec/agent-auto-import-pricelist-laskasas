@@ -1,0 +1,3294 @@
+﻿[
+    {
+        "nome_v015":  "TWISTED CABIDE",
+        "dims":  "[30.0, 30.0, 168.0]",
+        "floow_id":  "92390",
+        "floow_nome":  "Cabide TWISTED 30X30X168",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [1275, 383]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "MATT CABIDE COM BASE LACADA/FOLHA",
+        "dims":  "[32.0, 32.0, 168.0]",
+        "floow_id":  "133202",
+        "floow_nome":  "Cabide MATT 32X32X168",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [1585, 858]}, {\"cat\": \"G2\", \"valores\": [2623, 998]}, {\"cat\": \"G3\", \"valores\": [3641, 1029]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "MATT CABIDE COM BASE EM MÁRMORE",
+        "dims":  "[32.0, 32.0, 168.0]",
+        "floow_id":  "133202",
+        "floow_nome":  "Cabide MATT 32X32X168",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [1207, 1610]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "BEN CABIDE COM BASE LACADA/FOLHA",
+        "dims":  "[45.0, 20.0, 177.0]",
+        "floow_id":  "129253",
+        "floow_nome":  "Cabide BEN 45X20X177",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [1506, 633]}, {\"cat\": \"G2\", \"valores\": [2588, 744]}, {\"cat\": \"G3\", \"valores\": [3682, 908]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "BEN CABIDE COM BASE EM MÁRMORE",
+        "dims":  "[45.0, 20.0, 177.0]",
+        "floow_id":  "129253",
+        "floow_nome":  "Cabide BEN 45X20X177",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [1579, 1755]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "ORION - MFC-CLEAF CABIDE",
+        "dims":  "[42.0, 35.0, 160.0]",
+        "floow_id":  "409054",
+        "floow_nome":  "Cabide ORION 41.8X35X160",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [1159, 332]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "AVIGNON CONSOLA 170",
+        "dims":  "[170.0, 37.0, 80.0]",
+        "floow_id":  "407164",
+        "floow_nome":  "Consola AVIGNON 170X37X80",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [1148, 1330]}, {\"cat\": \"G2\", \"valores\": [1399, 1578]}, {\"cat\": \"G3\", \"valores\": [1775, 1885]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "AVIGNON CONSOLA 150",
+        "dims":  "[150.0, 37.0, 80.0]",
+        "floow_id":  "407163",
+        "floow_nome":  "Consola AVIGNON 150X37X80",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [1055, 1247]}, {\"cat\": \"G2\", \"valores\": [1288, 1479]}, {\"cat\": \"G3\", \"valores\": [1633, 1768]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "AVIGNON CONSOLA COM 1 GAVETA",
+        "dims":  "[150.0, 37.0, 80.0]",
+        "floow_id":  "407165",
+        "floow_nome":  "Consola AVIGNON 1 Gav 150X37X80",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [1303, 1419]}, {\"cat\": \"G2\", \"valores\": [1435, 1552]}, {\"cat\": \"G3\", \"valores\": [1639, 1912]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "EVELYN CONSOLA 160",
+        "dims":  "[160.0, 40.0, 85.0]",
+        "floow_id":  "373071",
+        "floow_nome":  "Consola EVELYN 160X40X85",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [1931, 2465]}, {\"cat\": \"G2\", \"valores\": [2150, 2642]}, {\"cat\": \"G3\", \"valores\": [2529, 2780]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "NIELS CONSOLA 180",
+        "dims":  "[180.0, 47.0, 90.0]",
+        "floow_id":  "64997",
+        "floow_nome":  "Consola NIELS 180X47X90",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [2018, 2243]}, {\"cat\": \"G2\", \"valores\": [2376, 2600]}, {\"cat\": \"G3\", \"valores\": [3041, 3264]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "NIELS CONSOLA 140",
+        "dims":  "[140.0, 47.0, 90.0]",
+        "floow_id":  "65001",
+        "floow_nome":  "Consola NIELS 140X47X90",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [1922, 2136]}, {\"cat\": \"G2\", \"valores\": [2263, 2476]}, {\"cat\": \"G3\", \"valores\": [2897, 3108]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "JILL CONSOLA 180 REVESTIDA A M1",
+        "dims":  "[180.0, 40.0, 85.0]",
+        "floow_id":  "366130",
+        "floow_nome":  "Consola JILL 180X40X85",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [2384, 2737]}, {\"cat\": \"G2\", \"valores\": [2553, 2905]}, {\"cat\": \"G3\", \"valores\": [2592, 2945]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "JILL CONSOLA 180 REVESTIDA A M1 INTERIOR",
+        "dims":  "[180.0, 40.0, 85.0]",
+        "floow_id":  "366130",
+        "floow_nome":  "Consola JILL 180X40X85",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [1327, 1606]}, {\"cat\": \"G2\", \"valores\": [1433, 1712]}, {\"cat\": \"G3\", \"valores\": [1489, 1769]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "JILL CONSOLA 180 REVESTIDA A M2",
+        "dims":  "[180.0, 40.0, 85.0]",
+        "floow_id":  "366130",
+        "floow_nome":  "Consola JILL 180X40X85",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [3132, 3373]}, {\"cat\": \"G2\", \"valores\": [3261, 3507]}, {\"cat\": \"G3\", \"valores\": [3326, 3571]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "JILL CONSOLA 180 REVESTIDA A M2 INTERIOR",
+        "dims":  "[180.0, 40.0, 85.0]",
+        "floow_id":  "366130",
+        "floow_nome":  "Consola JILL 180X40X85",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [1644, 1924]}, {\"cat\": \"G2\", \"valores\": [1750, 2030]}, {\"cat\": \"G3\", \"valores\": [1808, 2087]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "JILL CONSOLA 140 REVESTIDA A M1",
+        "dims":  "[140.0, 40.0, 85.0]",
+        "floow_id":  "366129",
+        "floow_nome":  "Consola JILL 140X40X85",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [2188, 2468]}, {\"cat\": \"G2\", \"valores\": [2329, 2639]}, {\"cat\": \"G3\", \"valores\": [2376, 2682]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "JILL - CONSOLA 140 REVESTIDA A M1 INTERIOR",
+        "dims":  "[140.0, 40.0, 85.0]",
+        "floow_id":  "366129",
+        "floow_nome":  "Consola JILL 140X40X85",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [1309, 1586]}, {\"cat\": \"G2\", \"valores\": [1409, 1686]}, {\"cat\": \"G3\", \"valores\": [1467, 1744]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "JILL CONSOLA 140 REVESTIDA A M2 INTERIOR",
+        "dims":  "[140.0, 40.0, 85.0]",
+        "floow_id":  "366129",
+        "floow_nome":  "Consola JILL 140X40X85",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [1627, 1904]}, {\"cat\": \"G2\", \"valores\": [1726, 2003]}, {\"cat\": \"G3\", \"valores\": [1785, 2062]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "JILL CONSOLA 140 REVESTIDA A M2",
+        "dims":  "[140.0, 40.0, 85.0]",
+        "floow_id":  "366129",
+        "floow_nome":  "Consola JILL 140X40X85",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [2949, 3141]}, {\"cat\": \"G2\", \"valores\": [3105, 3270]}, {\"cat\": \"G3\", \"valores\": [3168, 3329]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "LYSSA CONSOLA 140",
+        "dims":  "[140.0, 40.0, 85.0]",
+        "floow_id":  "65010",
+        "floow_nome":  "Consola LYSSA 140X40X85",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [1801]}, {\"cat\": \"G2\", \"valores\": [1967]}, {\"cat\": \"G3\", \"valores\": [2206]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "LYSSA CONSOLA 140 TAMPO EM M1",
+        "dims":  "[140.0, 40.0, 85.0]",
+        "floow_id":  "65010",
+        "floow_nome":  "Consola LYSSA 140X40X85",
+        "precos_v015":  "[{\"cat\": \"PVP\", \"valores\": [2680]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "LYSSA CONSOLA 140 TAMPO EM M2",
+        "dims":  "[140.0, 40.0, 85.0]",
+        "floow_id":  "65010",
+        "floow_nome":  "Consola LYSSA 140X40X85",
+        "precos_v015":  "[{\"cat\": \"PVP\", \"valores\": [3196]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "KAHLO CONSOLA",
+        "dims":  "[150.0, 40.0, 80.0]",
+        "floow_id":  "244252",
+        "floow_nome":  "Consola KAHLO 150X40X80",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [2792, 2984]}, {\"cat\": \"G2\", \"valores\": [3094, 3285]}, {\"cat\": \"G3\", \"valores\": [3133, 3324]}]",
+        "matriz_floow":  "{\"name\":null,\"value\":0}"
+    },
+    {
+        "nome_v015":  "ITHACA - MFC CLEAF CONSOLA SEM GAVETA",
+        "dims":  "[120.0, 40.0, 90.0]",
+        "floow_id":  "394754",
+        "floow_nome":  "Consola ITHACA c/ Gav 120X40X90",
+        "precos_v015":  "[{\"cat\": \"PVP\", \"valores\": [412]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "ITHACA CONSOLA SEM GAVETA",
+        "dims":  "[120.0, 40.0, 90.0]",
+        "floow_id":  "394754",
+        "floow_nome":  "Consola ITHACA c/ Gav 120X40X90",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [1478]}, {\"cat\": \"G2\", \"valores\": [2645]}, {\"cat\": \"G3\", \"valores\": [3687]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "ITHACA - MFC CLEAF CONSOLA COM GAVETA",
+        "dims":  "[120.0, 40.0, 90.0]",
+        "floow_id":  "394754",
+        "floow_nome":  "Consola ITHACA c/ Gav 120X40X90",
+        "precos_v015":  "[{\"cat\": \"PVP\", \"valores\": [582]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "ITHACA CONSOLA COM GAVETA",
+        "dims":  "[120.0, 40.0, 90.0]",
+        "floow_id":  "394754",
+        "floow_nome":  "Consola ITHACA c/ Gav 120X40X90",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [1774]}, {\"cat\": \"G2\", \"valores\": [1115]}, {\"cat\": \"G3\", \"valores\": [1183]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "OLIVEIRA - MFC CLEAF  CONSOLA",
+        "dims":  "[130.0, 42.0, 80.0]",
+        "floow_id":  "406641",
+        "floow_nome":  "Consola OLIVEIRA 130x42x80",
+        "precos_v015":  "[{\"cat\": \"PVP\", \"valores\": [442]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "NYSA CONSOLA EM LAMINADO",
+        "dims":  "[114.0, 35.0, 80.0]",
+        "floow_id":  "302219",
+        "floow_nome":  "Consola c/ Gaveta NYSA 114X35X80",
+        "precos_v015":  "[{\"cat\": \"PVP\", \"valores\": [511]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "NYSA CONSOLA COM GAVETA EM LAMINADO",
+        "dims":  "[114.0, 35.0, 80.0]",
+        "floow_id":  "302219",
+        "floow_nome":  "Consola c/ Gaveta NYSA 114X35X80",
+        "precos_v015":  "[{\"cat\": \"PVP\", \"valores\": [734]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "DESMOND CONSOLA 140",
+        "dims":  "[140.0, 46.0, 78.0]",
+        "floow_id":  "317226",
+        "floow_nome":  "Consola 2 Gav DESMOND 140X46X78",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [1590]}, {\"cat\": \"G2\", \"valores\": [1805]}, {\"cat\": \"G3\", \"valores\": [1879]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "DESMOND CONSOLA 140 EM LAMINADO",
+        "dims":  "[140.0, 46.0, 78.0]",
+        "floow_id":  "317226",
+        "floow_nome":  "Consola 2 Gav DESMOND 140X46X78",
+        "precos_v015":  "[{\"cat\": \"PVP\", \"valores\": [1396]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "DESMOND CONSOLA 140 TAMPO CERÂMICO",
+        "dims":  "[140.0, 46.0, 78.0]",
+        "floow_id":  "317226",
+        "floow_nome":  "Consola 2 Gav DESMOND 140X46X78",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [1911]}, {\"cat\": \"G2\", \"valores\": [2126]}, {\"cat\": \"G3\", \"valores\": [2200]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "DESMOND CONSOLA 140 COM NICHO EM CERÂMICA",
+        "dims":  "[140.0, 46.0, 89.0]",
+        "floow_id":  "298622",
+        "floow_nome":  "Consola 3 Gav DESMOND 140X46X90",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [1956]}, {\"cat\": \"G2\", \"valores\": [2175]}, {\"cat\": \"G3\", \"valores\": [2265]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "DESMOND CONSOLA 140 COM NICHO",
+        "dims":  "[140.0, 46.0, 89.0]",
+        "floow_id":  "298622",
+        "floow_nome":  "Consola 3 Gav DESMOND 140X46X90",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [1770]}, {\"cat\": \"G2\", \"valores\": [1989]}, {\"cat\": \"G3\", \"valores\": [2080]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "DESMOND CONSOLA 140 EM LAMINADO COM NICHO EM CERÂMICA",
+        "dims":  "[140.0, 46.0, 89.0]",
+        "floow_id":  "298622",
+        "floow_nome":  "Consola 3 Gav DESMOND 140X46X90",
+        "precos_v015":  "[{\"cat\": \"PVP\", \"valores\": [1641]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "DESMOND CONSOLA 140 EM LAMINADO COM NICHO",
+        "dims":  "[140.0, 46.0, 89.0]",
+        "floow_id":  "298622",
+        "floow_nome":  "Consola 3 Gav DESMOND 140X46X90",
+        "precos_v015":  "[{\"cat\": \"PVP\", \"valores\": [1455]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "DESMOND CONSOLA 170",
+        "dims":  "[171.0, 46.0, 78.0]",
+        "floow_id":  "317227",
+        "floow_nome":  "Consola 2 Gav DESMOND 170X46X78",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [1650]}, {\"cat\": \"G2\", \"valores\": [1872]}, {\"cat\": \"G3\", \"valores\": [1958]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "DESMOND CONSOLA 170 EM LAMINADO",
+        "dims":  "[171.0, 46.0, 78.0]",
+        "floow_id":  "317227",
+        "floow_nome":  "Consola 2 Gav DESMOND 170X46X78",
+        "precos_v015":  "[{\"cat\": \"PVP\", \"valores\": [1441]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "DESMOND CONSOLA 170 TAMPO CERÂMICO",
+        "dims":  "[171.0, 46.0, 78.0]",
+        "floow_id":  "317227",
+        "floow_nome":  "Consola 2 Gav DESMOND 170X46X78",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [2006]}, {\"cat\": \"G2\", \"valores\": [2229]}, {\"cat\": \"G3\", \"valores\": [2315]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "DESMOND CONSOLA 170 EM LAMINADO COM TAMPO CERÂMICO",
+        "dims":  "[171.0, 46.0, 78.0]",
+        "floow_id":  "317227",
+        "floow_nome":  "Consola 2 Gav DESMOND 170X46X78",
+        "precos_v015":  "[{\"cat\": \"PVP\", \"valores\": [1795]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "DESMOND CONSOLA 170 COM NICHO EM CERÂMICA",
+        "dims":  "[171.0, 46.0, 89.0]",
+        "floow_id":  "288789",
+        "floow_nome":  "Consola 3 Gav DESMOND 170X46X90",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [2029]}, {\"cat\": \"G2\", \"valores\": [2257]}, {\"cat\": \"G3\", \"valores\": [2362]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "DESMOND CONSOLA 170 COM NICHO",
+        "dims":  "[171.0, 46.0, 89.0]",
+        "floow_id":  "288789",
+        "floow_nome":  "Consola 3 Gav DESMOND 170X46X90",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [1844]}, {\"cat\": \"G2\", \"valores\": [2072]}, {\"cat\": \"G3\", \"valores\": [2177]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "DESMOND CONSOLA 170 EM LAMINADO COM NICHO EM CERÂMICA",
+        "dims":  "[171.0, 46.0, 89.0]",
+        "floow_id":  "288789",
+        "floow_nome":  "Consola 3 Gav DESMOND 170X46X90",
+        "precos_v015":  "[{\"cat\": \"PVP\", \"valores\": [1724]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "DESMOND CONSOLA 170 EM LAMINADO COM NICHO",
+        "dims":  "[171.0, 46.0, 89.0]",
+        "floow_id":  "288789",
+        "floow_nome":  "Consola 3 Gav DESMOND 170X46X90",
+        "precos_v015":  "[{\"cat\": \"PVP\", \"valores\": [1543]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "DESMOND CONSOLA 140 EM LAMINADO COM TAMPO CERÂMICO",
+        "dims":  "[140.0, 46.0, 78.0]",
+        "floow_id":  "317226",
+        "floow_nome":  "Consola 2 Gav DESMOND 140X46X78",
+        "precos_v015":  "[{\"cat\": \"PVP\", \"valores\": [1717]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "PHOEBE CONSOLA EM LAMINADO",
+        "dims":  "[110.0, 37.0, 100.0]",
+        "floow_id":  "312407",
+        "floow_nome":  "Consola PHOEBE 110X37X100",
+        "precos_v015":  "[{\"cat\": \"PVP\", \"valores\": [709]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "RODRIGUES - MFC CLEAF  CONSOLA",
+        "dims":  "[140.0, 35.0, 85.0]",
+        "floow_id":  "370708",
+        "floow_nome":  "Consola RODRIGUES 140x35x85",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [1523, 672]}]",
+        "matriz_floow":  "{\"name\":null,\"value\":0}"
+    },
+    {
+        "nome_v015":  "IKARIA - VIDRO CONSOLA",
+        "dims":  "[140.0, 45.0, 89.0]",
+        "floow_id":  "409432",
+        "floow_nome":  "Consola IKARIA Vidro 140X36X88.5",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [1408, 812]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "IKARIA - MFC CLEAF CONSOLA",
+        "dims":  "[140.0, 45.0, 89.0]",
+        "floow_id":  "409432",
+        "floow_nome":  "Consola IKARIA Vidro 140X36X88.5",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [1451, 857]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "OPIUM ESPELHO 35",
+        "dims":  "[35.0, 3.0, 200.0]",
+        "floow_id":  "65026",
+        "floow_nome":  "Espelho OPIUM  200X3X35",
+        "precos_v015":  "[{\"cat\": \"PVP\", \"valores\": [462]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "OPIUM ESPELHO 75",
+        "dims":  "[75.0, 3.0, 200.0]",
+        "floow_id":  "65050",
+        "floow_nome":  "Espelho OPIUM 200X3X75",
+        "precos_v015":  "[{\"cat\": \"PVP\", \"valores\": [665]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "TEXAS ESPELHO",
+        "dims":  "[100.0, 4.0, 200.0]",
+        "floow_id":  "65057",
+        "floow_nome":  "Espelho TEXAS 100X4X200",
+        "precos_v015":  "[{\"cat\": \"PVP\", \"valores\": [941]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "TEXAS ESPELHO MOLDURA EM ESPELHO GRIS/BRONZE",
+        "dims":  "[100.0, 4.0, 200.0]",
+        "floow_id":  "65057",
+        "floow_nome":  "Espelho TEXAS 100X4X200",
+        "precos_v015":  "[{\"cat\": \"PVP\", \"valores\": [1076]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "RIO ESPELHO 45",
+        "dims":  "[45.0, 4.0, 125.0]",
+        "floow_id":  "65065",
+        "floow_nome":  "Espelho RIO 45X4X125",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [1359, 451]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "RIO ESPELHO 15",
+        "dims":  "[15.0, 4.0, 125.0]",
+        "floow_id":  "65068",
+        "floow_nome":  "Espelho RIO 15X4X125",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [1326, 407]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "IRIS ESPELHO",
+        "dims":  "[120.0, 6.0, 200.0]",
+        "floow_id":  "65070",
+        "floow_nome":  "Espelho IRIS  120X6X200",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [1812]}, {\"cat\": \"C2\", \"valores\": [2897]}, {\"cat\": \"C3\", \"valores\": [1718]}, {\"cat\": \"C4\", \"valores\": [2309]}, {\"cat\": \"C5\", \"valores\": [2518]}, {\"cat\": \"C6\", \"valores\": [2732]}]",
+        "matriz_floow":  "[{\"name\":\"G1\",\"value\":694},{\"name\":\"G2\",\"value\":705},{\"name\":\"G3\",\"value\":1083},{\"name\":\"G4\",\"value\":1454}]"
+    },
+    {
+        "nome_v015":  "LIMA ESPELHO",
+        "dims":  "[78.0, 2.0, 80.0]",
+        "floow_id":  "68240",
+        "floow_nome":  "Espelho LIMA 78X2.4X79.5",
+        "precos_v015":  "[{\"cat\": \"PVP\", \"valores\": [297]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "ITHACA - MFC CLEAF ESPELHO",
+        "dims":  "[80.0, 10.0, 160.0]",
+        "floow_id":  "393693",
+        "floow_nome":  "Espelho ITHACA 80X10X160",
+        "precos_v015":  "[{\"cat\": \"PVP\", \"valores\": [393]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "ITHACA ESPELHO",
+        "dims":  "[80.0, 10.0, 160.0]",
+        "floow_id":  "393693",
+        "floow_nome":  "Espelho ITHACA 80X10X160",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [1427]}, {\"cat\": \"G2\", \"valores\": [2461]}, {\"cat\": \"G3\", \"valores\": [3495]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "BUR POUF QUADRADO",
+        "dims":  "[100.0, 100.0, 35.0]",
+        "floow_id":  "216639",
+        "floow_nome":  "Pouf BUR 100X100X35",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [1998]}, {\"cat\": \"C2\", \"valores\": [1142]}, {\"cat\": \"C3\", \"valores\": [1373]}, {\"cat\": \"C4\", \"valores\": [1604]}, {\"cat\": \"C5\", \"valores\": [1951]}, {\"cat\": \"C6\", \"valores\": [2298]}]",
+        "matriz_floow":  "[{\"name\":\"G1\",\"value\":905},{\"name\":\"G2\",\"value\":1034},{\"name\":\"G3\",\"value\":1221},{\"name\":\"G4\",\"value\":1429},{\"name\":\"G5\",\"value\":1429},{\"name\":\"G6\",\"value\":1554}]"
+    },
+    {
+        "nome_v015":  "BUR POUF REDONDO",
+        "dims":  "[100.0, 100.0, 35.0]",
+        "floow_id":  "216639",
+        "floow_nome":  "Pouf BUR 100X100X35",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [1989]}, {\"cat\": \"C2\", \"valores\": [1132]}, {\"cat\": \"C3\", \"valores\": [1365]}, {\"cat\": \"C4\", \"valores\": [1596]}, {\"cat\": \"C5\", \"valores\": [1941]}, {\"cat\": \"C6\", \"valores\": [2288]}]",
+        "matriz_floow":  "[{\"name\":\"G1\",\"value\":905},{\"name\":\"G2\",\"value\":1034},{\"name\":\"G3\",\"value\":1221},{\"name\":\"G4\",\"value\":1429},{\"name\":\"G5\",\"value\":1429},{\"name\":\"G6\",\"value\":1554}]"
+    },
+    {
+        "nome_v015":  "SPHINX POUF",
+        "dims":  "[55.0, 40.0, 45.0]",
+        "floow_id":  "267070",
+        "floow_nome":  "Pouf SPHINX 55X40X45",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [1553]}, {\"cat\": \"C2\", \"valores\": [2583]}, {\"cat\": \"C3\", \"valores\": [3632]}, {\"cat\": \"C4\", \"valores\": [4680]}, {\"cat\": \"C5\", \"valores\": [5752]}, {\"cat\": \"C6\", \"valores\": [6824]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "FRANCIS POUF PEQUENO",
+        "dims":  "[50.0, 50.0, 42.0]",
+        "floow_id":  "288772",
+        "floow_nome":  "Pouf FRANCIS 50X50X40",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [1800]}, {\"cat\": \"C2\", \"valores\": [2879]}, {\"cat\": \"C3\", \"valores\": [1005]}, {\"cat\": \"C4\", \"valores\": [1131]}, {\"cat\": \"C5\", \"valores\": [1320]}, {\"cat\": \"C6\", \"valores\": [1508]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "FRANCIS POUF RETANGULAR",
+        "dims":  "[100.0, 50.0, 42.0]",
+        "floow_id":  "288988",
+        "floow_nome":  "Pouf FRANCIS 100X50X40",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [1874]}, {\"cat\": \"C2\", \"valores\": [2958]}, {\"cat\": \"C3\", \"valores\": [1093]}, {\"cat\": \"C4\", \"valores\": [1228]}, {\"cat\": \"C5\", \"valores\": [1431]}, {\"cat\": \"C6\", \"valores\": [1633]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "FRANCIS POUF GRANDE",
+        "dims":  "[100.0, 100.0, 42.0]",
+        "floow_id":  "288986",
+        "floow_nome":  "Pouf FRANCIS 100X100X40",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [1136]}, {\"cat\": \"C2\", \"valores\": [1234]}, {\"cat\": \"C3\", \"valores\": [1392]}, {\"cat\": \"C4\", \"valores\": [1549]}, {\"cat\": \"C5\", \"valores\": [1785]}, {\"cat\": \"C6\", \"valores\": [2021]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "DEIMOS POUF PEQUENO",
+        "dims":  "[45.0, 45.0, 40.0]",
+        "floow_id":  "310780",
+        "floow_nome":  "Pouf DEIMOS 45X45X40",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [1578]}, {\"cat\": \"C2\", \"valores\": [2637]}, {\"cat\": \"C3\", \"valores\": [3732]}, {\"cat\": \"C4\", \"valores\": [4826]}, {\"cat\": \"C5\", \"valores\": [5968]}, {\"cat\": \"C6\", \"valores\": [1109]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "DEIMOS POUF GRANDE",
+        "dims":  "[60.0, 60.0, 20.0]",
+        "floow_id":  "310781",
+        "floow_nome":  "Pouf DEIMOS 60X60X20",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [1434]}, {\"cat\": \"C2\", \"valores\": [2511]}, {\"cat\": \"C3\", \"valores\": [3635]}, {\"cat\": \"C4\", \"valores\": [4759]}, {\"cat\": \"C5\", \"valores\": [5944]}, {\"cat\": \"C6\", \"valores\": [1130]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "MACHADO POUF",
+        "dims":  "[50.0, 50.0, 48.0]",
+        "floow_id":  "370716",
+        "floow_nome":  "Pouf MACHADO 50X50X48",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [1653]}, {\"cat\": \"C2\", \"valores\": [2690]}, {\"cat\": \"C3\", \"valores\": [3750]}, {\"cat\": \"C4\", \"valores\": [4810]}, {\"cat\": \"C5\", \"valores\": [5899]}, {\"cat\": \"C6\", \"valores\": [6989]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "GOLD FLOREIRA MÉDIA Ø50",
+        "dims":  "[50.0, 50.0, 50.0]",
+        "floow_id":  "428843",
+        "floow_nome":  "Floreira Média GOLD D50x50",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [1666]}, {\"cat\": \"G2\", \"valores\": [2827]}, {\"cat\": \"G3\", \"valores\": [3876]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "GOLD FLOREIRA ALTA",
+        "dims":  "[50.0, 50.0, 85.0]",
+        "floow_id":  "428843",
+        "floow_nome":  "Floreira Média GOLD D50x50",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [1770]}, {\"cat\": \"G2\", \"valores\": [1040]}, {\"cat\": \"G3\", \"valores\": [1101]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "ROSIE FLOREIRA MÉDIA",
+        "dims":  "[50.0, 50.0, 60.0]",
+        "floow_id":  "96699",
+        "floow_nome":  "Floreira Grande ROSIE D50x85",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [1050]}, {\"cat\": \"G2\", \"valores\": [1274]}, {\"cat\": \"G3\", \"valores\": [1337]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "ROSIE FLOREIRA ALTA",
+        "dims":  "[50.0, 50.0, 85.0]",
+        "floow_id":  "96699",
+        "floow_nome":  "Floreira Grande ROSIE D50x85",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [1108]}, {\"cat\": \"G2\", \"valores\": [1369]}, {\"cat\": \"G3\", \"valores\": [1445]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "LANIE FLOREIRA ALTA",
+        "dims":  "[34.0, 34.0, 100.0]",
+        "floow_id":  "96694",
+        "floow_nome":  "Floreira LANIE  34X34X100",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [1745, 869]}, {\"cat\": \"G2\", \"valores\": [2849, 972]}, {\"cat\": \"G3\", \"valores\": [3882, 1006]}]",
+        "matriz_floow":  "[{\"name\":\"G1 - Detalhe Ferro Pintado\",\"value\":543},{\"name\":\"G2 - Detalhe Ferro Pintado\",\"value\":632},{\"name\":\"G3 - Detalhe Ferro Pintado\",\"value\":645},{\"name\":\"G4 - Detalhe Ferro Pintado\",\"value\":654},{\"name\":\"G1 - Detalhe Inox\",\"value\":582},{\"name\":\"G2 - Detalhe Inox\",\"value\":673},{\"name\":\"G3 - Detalhe Inox\",\"value\":684},{\"name\":\"G4 - Detalhe Inox\",\"value\":694},{\"name\":\"G1 - Detalhe Inox Pintado\",\"value\":704},{\"name\":\"G2 - Detalhe Inox Pintado\",\"value\":792},{\"name\":\"G3 - Detalhe Inox Pintado\",\"value\":806},{\"name\":\"G4 - Detalhe Inox Pintado\",\"value\":815}]"
+    },
+    {
+        "nome_v015":  "LANIE FLOREIRA MÉDIA",
+        "dims":  "[44.0, 44.0, 80.0]",
+        "floow_id":  "172431",
+        "floow_nome":  "Floreira LANIE  44X44X80",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [1751, 934]}, {\"cat\": \"G2\", \"valores\": [2862, 1067]}, {\"cat\": \"G3\", \"valores\": [3895, 1102]}]",
+        "matriz_floow":  "[{\"name\":\"G1 - Detalhe Ferro Pintado\",\"value\":554},{\"name\":\"G2 - Detalhe Ferro Pintado\",\"value\":656},{\"name\":\"G3 - Detalhe Ferro Pintado\",\"value\":671},{\"name\":\"G4 - Detalhe Ferro Pintado\",\"value\":682},{\"name\":\"G1 - Detalhe Inox\",\"value\":593},{\"name\":\"G2 - Detalhe Inox\",\"value\":697},{\"name\":\"G3 - Detalhe Inox\",\"value\":710},{\"name\":\"G4 - Detalhe Inox\",\"value\":721},{\"name\":\"G1 - Detalhe Inox Pintado\",\"value\":711},{\"name\":\"G2 - Detalhe Inox Pintado\",\"value\":814},{\"name\":\"G3 - Detalhe Inox Pintado\",\"value\":828},{\"name\":\"G4 - Detalhe Inox Pintado\",\"value\":840}]"
+    },
+    {
+        "nome_v015":  "BAG L FLOREIRA",
+        "dims":  "[48.0, 48.0, 48.0]",
+        "floow_id":  "112513",
+        "floow_nome":  "Floreira BAG D48x48",
+        "precos_v015":  "[{\"cat\": \"PVP\", \"valores\": [108]}]",
+        "matriz_floow":  "{\"name\":\"PVP\",\"value\":97}"
+    },
+    {
+        "nome_v015":  "BAG M FLOREIRA",
+        "dims":  "[40.0, 40.0, 40.0]",
+        "floow_id":  "112517",
+        "floow_nome":  "Floreira BAG D40x40",
+        "precos_v015":  "[{\"cat\": \"PVP\", \"valores\": [96]}]",
+        "matriz_floow":  "{\"name\":\"PVP\",\"value\":85}"
+    },
+    {
+        "nome_v015":  "BAG S FLOREIRA",
+        "dims":  "[30.0, 30.0, 30.0]",
+        "floow_id":  "112515",
+        "floow_nome":  "Floreira BAG D30x30",
+        "precos_v015":  "[{\"cat\": \"PVP\", \"valores\": [84]}]",
+        "matriz_floow":  "{\"name\":\"PVP\",\"value\":75}"
+    },
+    {
+        "nome_v015":  "NERA MESA DE APOIO",
+        "dims":  "[40.0, 40.0, 50.0]",
+        "floow_id":  "267156",
+        "floow_nome":  "Mesa de Cabeceira NERA 50X40X40",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [1195]}, {\"cat\": \"G2\", \"valores\": [2334]}, {\"cat\": \"G3\", \"valores\": [3360]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "NERA - MFC CLEAF MESA DE APOIO",
+        "dims":  "[40.0, 40.0, 50.0]",
+        "floow_id":  "267156",
+        "floow_nome":  "Mesa de Cabeceira NERA 50X40X40",
+        "precos_v015":  "[{\"cat\": \"PVP\", \"valores\": [185]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "GREY SOFÁ DE VIVO COM 3 LUGARES",
+        "dims":  "[320.0, 110.0, 92.0]",
+        "floow_id":  "208163",
+        "floow_nome":  "Sofá GREY 3L 320X110X92",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [2202]}, {\"cat\": \"C2\", \"valores\": [2651]}, {\"cat\": \"C3\", \"valores\": [5061]}, {\"cat\": \"C4\", \"valores\": [5412]}, {\"cat\": \"C5\", \"valores\": [5412]}, {\"cat\": \"C6\", \"valores\": [6331]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "GREY SOFÁ DE VIVO COM CHAISE",
+        "dims":  "[320.0, 190.0, 92.0]",
+        "floow_id":  "225092",
+        "floow_nome":  "Sofá GREY Chaise 320X190X92",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [3251]}, {\"cat\": \"C2\", \"valores\": [3985]}, {\"cat\": \"C3\", \"valores\": [7230]}, {\"cat\": \"C4\", \"valores\": [7803]}, {\"cat\": \"C5\", \"valores\": [7803]}, {\"cat\": \"C6\", \"valores\": [8582]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "GOLD SOFÁ DE 2 LUGARES COM PÉ EM INOX",
+        "dims":  "[210.0, 105.0, 78.0]",
+        "floow_id":  "265724",
+        "floow_nome":  "Sofá GOLD 2L 210X105X78",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [2756]}, {\"cat\": \"C2\", \"valores\": [3282]}, {\"cat\": \"C3\", \"valores\": [5135]}, {\"cat\": \"C4\", \"valores\": [6223]}, {\"cat\": \"C5\", \"valores\": [6223]}, {\"cat\": \"C6\", \"valores\": [6793]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "GOLD SOFÁ DE 2 LUGARES COM PÉ EM MADEIRA",
+        "dims":  "[210.0, 105.0, 78.0]",
+        "floow_id":  "265724",
+        "floow_nome":  "Sofá GOLD 2L 210X105X78",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [2624]}, {\"cat\": \"C2\", \"valores\": [3086]}, {\"cat\": \"C3\", \"valores\": [4553]}, {\"cat\": \"C4\", \"valores\": [5654]}, {\"cat\": \"C5\", \"valores\": [5654]}, {\"cat\": \"C6\", \"valores\": [6182]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "GOLD SOFÁ DE 3 LUGARES COM PÉ EM INOX",
+        "dims":  "[285.0, 105.0, 78.0]",
+        "floow_id":  "265725",
+        "floow_nome":  "Sofá GOLD 3L 285X105X78",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [3294]}, {\"cat\": \"C2\", \"valores\": [3687]}, {\"cat\": \"C3\", \"valores\": [5160]}, {\"cat\": \"C4\", \"valores\": [6412]}, {\"cat\": \"C5\", \"valores\": [6412]}, {\"cat\": \"C6\", \"valores\": [7054]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "GOLD SOFÁ DE 3 LUGARES COM PÉ EM MADEIRA",
+        "dims":  "[285.0, 105.0, 78.0]",
+        "floow_id":  "265725",
+        "floow_nome":  "Sofá GOLD 3L 285X105X78",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [2967]}, {\"cat\": \"C2\", \"valores\": [3370]}, {\"cat\": \"C3\", \"valores\": [4722]}, {\"cat\": \"C4\", \"valores\": [5682]}, {\"cat\": \"C5\", \"valores\": [5682]}, {\"cat\": \"C6\", \"valores\": [6676]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "GOLD SOFÁ COM CHAISE E PÉ EM INOX",
+        "dims":  "[285.0, 180.0, 78.0]",
+        "floow_id":  "289641",
+        "floow_nome":  "Sofá GOLD Chaise  285X183X78",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [4147]}, {\"cat\": \"C2\", \"valores\": [4575]}, {\"cat\": \"C3\", \"valores\": [6922]}, {\"cat\": \"C4\", \"valores\": [7856]}, {\"cat\": \"C5\", \"valores\": [7856]}, {\"cat\": \"C6\", \"valores\": [8702]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "GOLD SOFÁ COM CHAISE E PÉ EM MADEIRA",
+        "dims":  "[285.0, 180.0, 78.0]",
+        "floow_id":  "289641",
+        "floow_nome":  "Sofá GOLD Chaise  285X183X78",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [3741]}, {\"cat\": \"C2\", \"valores\": [4125]}, {\"cat\": \"C3\", \"valores\": [6220]}, {\"cat\": \"C4\", \"valores\": [7057]}, {\"cat\": \"C5\", \"valores\": [7057]}, {\"cat\": \"C6\", \"valores\": [8086]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "GOLD SOFÁ DE CANTO 210 COM PÉ EM INOX",
+        "dims":  "[360.0, 210.0, 78.0]",
+        "floow_id":  "164784",
+        "floow_nome":  "Sofá GOLD Canto 360X210X78",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [5487]}, {\"cat\": \"C2\", \"valores\": [6330]}, {\"cat\": \"C3\", \"valores\": [9772]}, {\"cat\": \"C4\", \"valores\": [11050]}, {\"cat\": \"C5\", \"valores\": [11050]}, {\"cat\": \"C6\", \"valores\": [12157]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "GOLD SOFÁ DE CANTO 210 COM PÉ EM MADEIRA",
+        "dims":  "[360.0, 210.0, 78.0]",
+        "floow_id":  "164784",
+        "floow_nome":  "Sofá GOLD Canto 360X210X78",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [5069]}, {\"cat\": \"C2\", \"valores\": [5883]}, {\"cat\": \"C3\", \"valores\": [8781]}, {\"cat\": \"C4\", \"valores\": [9930]}, {\"cat\": \"C5\", \"valores\": [9930]}, {\"cat\": \"C6\", \"valores\": [11739]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "GOLD SOFÁ DE CANTO 288 COM PÉ EM INOX",
+        "dims":  "[360.0, 288.0, 78.0]",
+        "floow_id":  "164782",
+        "floow_nome":  "Sofá GOLD Canto 360X288X78",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [6425]}, {\"cat\": \"C2\", \"valores\": [7258]}, {\"cat\": \"C3\", \"valores\": [11179]}, {\"cat\": \"C4\", \"valores\": [12396]}, {\"cat\": \"C5\", \"valores\": [12396]}, {\"cat\": \"C6\", \"valores\": [13806]}]",
+        "matriz_floow":  "[{\"name\":\"G1 - Inox (S. Manual + 255€/L ; S.Aut + 375€/L)\",\"value\":4633},{\"name\":\"G2 - Inox (S. Manual + 255€/L ; S.Aut + 375€/L)\",\"value\":5348},{\"name\":\"G3 - Inox (S. Manual + 255€/L ; S.Aut + 375€/L)\",\"value\":7039},{\"name\":\"G4 - Inox (S. Manual + 255€/L ; S.Aut + 375€/L)\",\"value\":7806},{\"name\":\"G5 - Inox (S. Manual + 255€/L ; S.Aut + 375€/L)\",\"value\":7806},{\"name\":\"G6 - Inox (S. Manual + 255€/L ; S.Aut + 375€/L)\",\"value\":8586},{\"name\":\"G1 - Inox Pintado (S. Manual + 255€/L ; S.Aut + 375€/L)\",\"value\":4633},{\"name\":\"G2 - Inox Pintado (S. Manual + 255€/L ; S.Aut + 375€/L)\",\"value\":5348},{\"name\":\"G3 - Inox Pintado (S. Manual + 255€/L ; S.Aut + 375€/L)\",\"value\":7039},{\"name\":\"G4 - Inox Pintado (S. Manual + 255€/L ; S.Aut + 375€/L)\",\"value\":7806},{\"name\":\"G5 - Inox Pintado (S. Manual + 255€/L ; S.Aut + 375€/L)\",\"value\":7806},{\"name\":\"G6 - Inox Pintado (S. Manual + 255€/L ; S.Aut + 375€/L)\",\"value\":8586},{\"name\":\"G1 - Madeira (S. Manual + 255€/L ; S.Aut + 375€/L)\",\"value\":4424},{\"name\":\"G2 - Madeira (S. Manual + 255€/L ; S.Aut + 375€/L)\",\"value\":5098},{\"name\":\"G3 - Madeira (S. Manual + 255€/L ; S.Aut + 375€/L)\",\"value\":6707},{\"name\":\"G4 - Madeira (S. Manual + 255€/L ; S.Aut + 375€/L)\",\"value\":7430},{\"name\":\"G5 - Madeira (S. Manual + 255€/L ; S.Aut + 375€/L)\",\"value\":7430},{\"name\":\"G6 - Madeira (S. Manual + 255€/L ; S.Aut + 375€/L)\",\"value\":8174}]"
+    },
+    {
+        "nome_v015":  "GOLD SOFÁ DE CANTO 288 COM PÉ EM MADEIRA",
+        "dims":  "[360.0, 288.0, 78.0]",
+        "floow_id":  "164782",
+        "floow_nome":  "Sofá GOLD Canto 360X288X78",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [6170]}, {\"cat\": \"C2\", \"valores\": [6985]}, {\"cat\": \"C3\", \"valores\": [10653]}, {\"cat\": \"C4\", \"valores\": [11802]}, {\"cat\": \"C5\", \"valores\": [11802]}, {\"cat\": \"C6\", \"valores\": [13781]}]",
+        "matriz_floow":  "[{\"name\":\"G1 - Inox (S. Manual + 255€/L ; S.Aut + 375€/L)\",\"value\":4633},{\"name\":\"G2 - Inox (S. Manual + 255€/L ; S.Aut + 375€/L)\",\"value\":5348},{\"name\":\"G3 - Inox (S. Manual + 255€/L ; S.Aut + 375€/L)\",\"value\":7039},{\"name\":\"G4 - Inox (S. Manual + 255€/L ; S.Aut + 375€/L)\",\"value\":7806},{\"name\":\"G5 - Inox (S. Manual + 255€/L ; S.Aut + 375€/L)\",\"value\":7806},{\"name\":\"G6 - Inox (S. Manual + 255€/L ; S.Aut + 375€/L)\",\"value\":8586},{\"name\":\"G1 - Inox Pintado (S. Manual + 255€/L ; S.Aut + 375€/L)\",\"value\":4633},{\"name\":\"G2 - Inox Pintado (S. Manual + 255€/L ; S.Aut + 375€/L)\",\"value\":5348},{\"name\":\"G3 - Inox Pintado (S. Manual + 255€/L ; S.Aut + 375€/L)\",\"value\":7039},{\"name\":\"G4 - Inox Pintado (S. Manual + 255€/L ; S.Aut + 375€/L)\",\"value\":7806},{\"name\":\"G5 - Inox Pintado (S. Manual + 255€/L ; S.Aut + 375€/L)\",\"value\":7806},{\"name\":\"G6 - Inox Pintado (S. Manual + 255€/L ; S.Aut + 375€/L)\",\"value\":8586},{\"name\":\"G1 - Madeira (S. Manual + 255€/L ; S.Aut + 375€/L)\",\"value\":4424},{\"name\":\"G2 - Madeira (S. Manual + 255€/L ; S.Aut + 375€/L)\",\"value\":5098},{\"name\":\"G3 - Madeira (S. Manual + 255€/L ; S.Aut + 375€/L)\",\"value\":6707},{\"name\":\"G4 - Madeira (S. Manual + 255€/L ; S.Aut + 375€/L)\",\"value\":7430},{\"name\":\"G5 - Madeira (S. Manual + 255€/L ; S.Aut + 375€/L)\",\"value\":7430},{\"name\":\"G6 - Madeira (S. Manual + 255€/L ; S.Aut + 375€/L)\",\"value\":8174}]"
+    },
+    {
+        "nome_v015":  "LONDON SOFÁ DE 2 LUGARES",
+        "dims":  "[212.0, 94.0, 98.0]",
+        "floow_id":  "338245",
+        "floow_nome":  "Sofá LONDON 2L 212X93.5X97.5",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [2029]}, {\"cat\": \"C2\", \"valores\": [2573]}, {\"cat\": \"C3\", \"valores\": [4776]}, {\"cat\": \"C4\", \"valores\": [5103]}, {\"cat\": \"C5\", \"valores\": [5103]}, {\"cat\": \"C6\", \"valores\": [5621]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "LONDON SOFÁ DE 3 LUGARES",
+        "dims":  "[305.0, 94.0, 98.0]",
+        "floow_id":  "64185",
+        "floow_nome":  "Sofá LONDON 3L  305X93.5X97.5",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [2178]}, {\"cat\": \"C2\", \"valores\": [2958]}, {\"cat\": \"C3\", \"valores\": [5286]}, {\"cat\": \"C4\", \"valores\": [5843]}, {\"cat\": \"C5\", \"valores\": [5843]}, {\"cat\": \"C6\", \"valores\": [6427]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "LONDON SOFÁ COM CHAISELONGUE",
+        "dims":  "[305.0, 180.0, 98.0]",
+        "floow_id":  "64186",
+        "floow_nome":  "Sofá LONDON Chaise 305X180X97.5",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [3676]}, {\"cat\": \"C2\", \"valores\": [4237]}, {\"cat\": \"C3\", \"valores\": [7389]}, {\"cat\": \"C4\", \"valores\": [7964]}, {\"cat\": \"C5\", \"valores\": [7964]}, {\"cat\": \"C6\", \"valores\": [8759]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "CHARLIE SOFÁ DE 2 LUGARES COM RODAPÉ EM MADEIRA",
+        "dims":  "[260.0, 115.0, 92.0]",
+        "floow_id":  "64347",
+        "floow_nome":  "Sofá CHARLIE 2L 260X115X92",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [2892]}, {\"cat\": \"C2\", \"valores\": [3359]}, {\"cat\": \"C3\", \"valores\": [4106]}, {\"cat\": \"C4\", \"valores\": [4852]}, {\"cat\": \"C5\", \"valores\": [5972]}, {\"cat\": \"C6\", \"valores\": [7092]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "CHARLIE SOFÁ DE 2 LUGARES COM RODAPÉ METÁLICO",
+        "dims":  "[260.0, 115.0, 92.0]",
+        "floow_id":  "64347",
+        "floow_nome":  "Sofá CHARLIE 2L 260X115X92",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [3008, 3190]}, {\"cat\": \"C2\", \"valores\": [3475, 3656]}, {\"cat\": \"C3\", \"valores\": [4222, 4403]}, {\"cat\": \"C4\", \"valores\": [4968, 5150]}, {\"cat\": \"C5\", \"valores\": [6088, 6270]}, {\"cat\": \"C6\", \"valores\": [7208, 7390]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "CHARLIE SOFÁ DE 3 LUGARES COM RODAPÉ EM MADEIRA",
+        "dims":  "[350.0, 115.0, 92.0]",
+        "floow_id":  "64350",
+        "floow_nome":  "Sofá CHARLIE 3L 350X115X92",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [3369]}, {\"cat\": \"C2\", \"valores\": [3937]}, {\"cat\": \"C3\", \"valores\": [4846]}, {\"cat\": \"C4\", \"valores\": [5754]}, {\"cat\": \"C5\", \"valores\": [7117]}, {\"cat\": \"C6\", \"valores\": [8480]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "CHARLIE SOFÁ DE 3 LUGARES COM RODAPÉ METÁLICO",
+        "dims":  "[350.0, 115.0, 92.0]",
+        "floow_id":  "64350",
+        "floow_nome":  "Sofá CHARLIE 3L 350X115X92",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [3504, 3733]}, {\"cat\": \"C2\", \"valores\": [4072, 4301]}, {\"cat\": \"C3\", \"valores\": [4981, 5209]}, {\"cat\": \"C4\", \"valores\": [5889, 6118]}, {\"cat\": \"C5\", \"valores\": [7252, 7481]}, {\"cat\": \"C6\", \"valores\": [8615, 8844]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "CHARLIE SOFÁ COM CHAISELONGUE E RODAPÉ EM MADEIRA",
+        "dims":  "[350.0, 160.0, 92.0]",
+        "floow_id":  "64354",
+        "floow_nome":  "Sofá CHARLIE Chaise 350X160X92",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [3976]}, {\"cat\": \"C2\", \"valores\": [4609]}, {\"cat\": \"C3\", \"valores\": [5621]}, {\"cat\": \"C4\", \"valores\": [6633]}, {\"cat\": \"C5\", \"valores\": [8151]}, {\"cat\": \"C6\", \"valores\": [9669]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "CHARLIE SOFÁ COM CHAISELONGUE E RODAPÉ METÁLICO",
+        "dims":  "[350.0, 160.0, 92.0]",
+        "floow_id":  "64354",
+        "floow_nome":  "Sofá CHARLIE Chaise 350X160X92",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [4267, 4505]}, {\"cat\": \"C2\", \"valores\": [4900, 5137]}, {\"cat\": \"C3\", \"valores\": [5912, 6150]}, {\"cat\": \"C4\", \"valores\": [6924, 7162]}, {\"cat\": \"C5\", \"valores\": [8442, 8563]}, {\"cat\": \"C6\", \"valores\": [9960, 10198]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "WELLINGTON SOFÁ DE 3 LUGARES",
+        "dims":  "[300.0, 102.0, 72.0]",
+        "floow_id":  "64426",
+        "floow_nome":  "Sofá WELLINGTON 3L 300X102X72",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [4273, 4361]}, {\"cat\": \"C2\", \"valores\": [4850, 4922]}, {\"cat\": \"C3\", \"valores\": [5719, 5792]}, {\"cat\": \"C4\", \"valores\": [6587, 6659]}, {\"cat\": \"C5\", \"valores\": [6685, 6773]}, {\"cat\": \"C6\", \"valores\": [7561, 7650]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "WELLINGTON SOFÁ DE 2 LUGARES",
+        "dims":  "[240.0, 102.0, 72.0]",
+        "floow_id":  "64425",
+        "floow_nome":  "Sofá WELLINGTON 2L 240X102X72",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [3951, 4040]}, {\"cat\": \"C2\", \"valores\": [4357, 4430]}, {\"cat\": \"C3\", \"valores\": [5139, 5212]}, {\"cat\": \"C4\", \"valores\": [5922, 5994]}, {\"cat\": \"C5\", \"valores\": [6076, 6163]}, {\"cat\": \"C6\", \"valores\": [6849, 6936]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "FLETCHER SOFÁ - MÓDULO GAVETA ESQUERDA/DIREITA PEQUENO - ACABAMENTO G1",
+        "dims":  "[123.0, 100.0, 93.0]",
+        "floow_id":  "133447",
+        "floow_nome":  "FLETCHER Sofa+Mod Gav 123X100X93",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [1687]}, {\"cat\": \"C2\", \"valores\": [1843]}, {\"cat\": \"C3\", \"valores\": [2118]}, {\"cat\": \"C4\", \"valores\": [2308]}, {\"cat\": \"C5\", \"valores\": [2703]}, {\"cat\": \"C6\", \"valores\": [3083]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "FLETCHER SOFÁ - MÓDULO GAVETA ESQUERDA/DIREITA PEQUENO - ACABAMENTO G2",
+        "dims":  "[123.0, 100.0, 93.0]",
+        "floow_id":  "133447",
+        "floow_nome":  "FLETCHER Sofa+Mod Gav 123X100X93",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [1781]}, {\"cat\": \"C2\", \"valores\": [1931]}, {\"cat\": \"C3\", \"valores\": [2197]}, {\"cat\": \"C4\", \"valores\": [2379]}, {\"cat\": \"C5\", \"valores\": [2762]}, {\"cat\": \"C6\", \"valores\": [3128]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "FLETCHER SOFÁ - MÓDULO GAVETA ESQUERDA/DIREITA PEQUENO - ACABAMENTO G3",
+        "dims":  "[123.0, 100.0, 93.0]",
+        "floow_id":  "133447",
+        "floow_nome":  "FLETCHER Sofa+Mod Gav 123X100X93",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [1839]}, {\"cat\": \"C2\", \"valores\": [1994]}, {\"cat\": \"C3\", \"valores\": [2269]}, {\"cat\": \"C4\", \"valores\": [2459]}, {\"cat\": \"C5\", \"valores\": [2856]}, {\"cat\": \"C6\", \"valores\": [3234]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "FLETCHER SOFÁ - MÓDULO GAVETA ESQUERDA/DIREITA GRANDE - ACABAMENTO G1",
+        "dims":  "[168.0, 100.0, 93.0]",
+        "floow_id":  "133454",
+        "floow_nome":  "FLETCHER Sofa+Mod Gav 168X100X93",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [1921]}, {\"cat\": \"C2\", \"valores\": [2091]}, {\"cat\": \"C3\", \"valores\": [2394]}, {\"cat\": \"C4\", \"valores\": [2603]}, {\"cat\": \"C5\", \"valores\": [3038]}, {\"cat\": \"C6\", \"valores\": [3456]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "FLETCHER SOFÁ - MÓDULO GAVETA ESQUERDA/DIREITA GRANDE - ACABAMENTO G2",
+        "dims":  "[168.0, 100.0, 93.0]",
+        "floow_id":  "133454",
+        "floow_nome":  "FLETCHER Sofa+Mod Gav 168X100X93",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [2042]}, {\"cat\": \"C2\", \"valores\": [2212]}, {\"cat\": \"C3\", \"valores\": [2516]}, {\"cat\": \"C4\", \"valores\": [2724]}, {\"cat\": \"C5\", \"valores\": [3159]}, {\"cat\": \"C6\", \"valores\": [3576]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "FLETCHER SOFÁ - MÓDULO GAVETA ESQUERDA/DIREITA GRANDE - ACABAMENTO G3",
+        "dims":  "[168.0, 100.0, 93.0]",
+        "floow_id":  "133454",
+        "floow_nome":  "FLETCHER Sofa+Mod Gav 168X100X93",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [2082]}, {\"cat\": \"C2\", \"valores\": [2252]}, {\"cat\": \"C3\", \"valores\": [2555]}, {\"cat\": \"C4\", \"valores\": [2763]}, {\"cat\": \"C5\", \"valores\": [3200]}, {\"cat\": \"C6\", \"valores\": [3617]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "ARGO SOFÁ DE 2 LUGARES",
+        "dims":  "[150.0, 85.0, 83.0]",
+        "floow_id":  "267047",
+        "floow_nome":  "Sofá 2L ARGO 150X85X83",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [1411, 1733]}, {\"cat\": \"C2\", \"valores\": [1830, 1953]}, {\"cat\": \"C3\", \"valores\": [2182, 2305]}, {\"cat\": \"C4\", \"valores\": [2534, 2657]}, {\"cat\": \"C5\", \"valores\": [3061, 3184]}, {\"cat\": \"C6\", \"valores\": [3588, 3711]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "ARGO SOFÁ DE 3 LUGARES",
+        "dims":  "[200.0, 85.0, 83.0]",
+        "floow_id":  "267050",
+        "floow_nome":  "Sofá 3L ARGO 200X85X83",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [1514, 2053]}, {\"cat\": \"C2\", \"valores\": [2224, 2346]}, {\"cat\": \"C3\", \"valores\": [2693, 2815]}, {\"cat\": \"C4\", \"valores\": [3162, 3284]}, {\"cat\": \"C5\", \"valores\": [3865, 3987]}, {\"cat\": \"C6\", \"valores\": [4568, 4690]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "ARGO SOFÁ COM CHAISELONGUE",
+        "dims":  "[230.0, 145.0, 83.0]",
+        "floow_id":  "267053",
+        "floow_nome":  "Sofá CH ARGO 230X145X83",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [1571, 2614]}, {\"cat\": \"C2\", \"valores\": [2736, 2951]}, {\"cat\": \"C3\", \"valores\": [3275, 3490]}, {\"cat\": \"C4\", \"valores\": [3815, 4030]}, {\"cat\": \"C5\", \"valores\": [4623, 4837]}, {\"cat\": \"C6\", \"valores\": [5432, 5646]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "CORREIA SOFÁ",
+        "dims":  "[230.0, 112.0, 72.0]",
+        "floow_id":  "391001",
+        "floow_nome":  "Sofá CORREIA 230x112x72",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [2510]}, {\"cat\": \"C2\", \"valores\": [2770]}, {\"cat\": \"C3\", \"valores\": [3184]}, {\"cat\": \"C4\", \"valores\": [3597]}, {\"cat\": \"C5\", \"valores\": [4218]}, {\"cat\": \"C6\", \"valores\": [4839]}, {\"cat\": \"C1\", \"valores\": [91]}, {\"cat\": \"C2\", \"valores\": [2117]}, {\"cat\": \"C3\", \"valores\": [3156]}, {\"cat\": \"C4\", \"valores\": [4197]}, {\"cat\": \"C5\", \"valores\": [5257]}, {\"cat\": \"C6\", \"valores\": [6317]}, {\"cat\": \"C1\", \"valores\": [77]}, {\"cat\": \"C2\", \"valores\": [88]}, {\"cat\": \"C3\", \"valores\": [3106]}, {\"cat\": \"C4\", \"valores\": [4123]}, {\"cat\": \"C5\", \"valores\": [5150]}, {\"cat\": \"C6\", \"valores\": [6176]}, {\"cat\": \"C1\", \"valores\": [84]}, {\"cat\": \"C2\", \"valores\": [2101]}, {\"cat\": \"C3\", \"valores\": [3129]}, {\"cat\": \"C4\", \"valores\": [4156]}, {\"cat\": \"C5\", \"valores\": [5197]}, {\"cat\": \"C6\", \"valores\": [6239]}, {\"cat\": \"C1\", \"valores\": [66]}, {\"cat\": \"C2\", \"valores\": [91]}, {\"cat\": \"C3\", \"valores\": [3132]}, {\"cat\": \"C4\", \"valores\": [4171]}, {\"cat\": \"C5\", \"valores\": [5231]}, {\"cat\": \"C6\", \"valores\": [6292]}, {\"cat\": \"C1\", \"valores\": [52]}, {\"cat\": \"C2\", \"valores\": [63]}, {\"cat\": \"C3\", \"valores\": [80]}, {\"cat\": \"C4\", \"valores\": [99]}, {\"cat\": \"C5\", \"valores\": [5124]}, {\"cat\": \"C6\", \"valores\": [6151]}, {\"cat\": \"C1\", \"valores\": [59]}, {\"cat\": \"C2\", \"valores\": [76]}, {\"cat\": \"C3\", \"valores\": [3104]}, {\"cat\": \"C4\", \"valores\": [4131]}, {\"cat\": \"C5\", \"valores\": [5172]}, {\"cat\": \"C6\", \"valores\": [6213]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "ISIS APARADOR 240",
+        "dims":  "[240.0, 50.0, 83.0]",
+        "floow_id":  "405087",
+        "floow_nome":  "Aparador ISIS 240X50X83",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [2059]}, {\"cat\": \"G2\", \"valores\": [2695]}, {\"cat\": \"G3\", \"valores\": [3058]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "ISIS APARADOR 240 DETALHE METÁLICO",
+        "dims":  "[240.0, 50.0, 83.0]",
+        "floow_id":  "405087",
+        "floow_nome":  "Aparador ISIS 240X50X83",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [2409, 2548]}, {\"cat\": \"G2\", \"valores\": [3045, 3184]}, {\"cat\": \"G3\", \"valores\": [3408, 3547]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "ISIS APARADOR 200",
+        "dims":  "[200.0, 50.0, 83.0]",
+        "floow_id":  "405157",
+        "floow_nome":  "Aparador ISIS 200X50X83",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [1834]}, {\"cat\": \"G2\", \"valores\": [2184]}, {\"cat\": \"G3\", \"valores\": [2587]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "ISIS APARADOR 200 DETALHE METÁLICO",
+        "dims":  "[200.0, 50.0, 83.0]",
+        "floow_id":  "405157",
+        "floow_nome":  "Aparador ISIS 200X50X83",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [2161, 2301]}, {\"cat\": \"G2\", \"valores\": [2695, 2833]}, {\"cat\": \"G3\", \"valores\": [2914, 3054]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "BORIS APARADOR 240 FOLHA ESPINHADA",
+        "dims":  "[240.0, 54.0, 80.0]",
+        "floow_id":  "403224",
+        "floow_nome":  "Aparador BORIS 240X53.5X80",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [3578, 3793]}, {\"cat\": \"G2\", \"valores\": [3923, 4139]}, {\"cat\": \"G3\", \"valores\": [4599, 4839]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "BORIS APARADOR 240 FOLHA LISA",
+        "dims":  "[240.0, 54.0, 80.0]",
+        "floow_id":  "403224",
+        "floow_nome":  "Aparador BORIS 240X53.5X80",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [3041, 3225]}, {\"cat\": \"G2\", \"valores\": [3333, 3517]}, {\"cat\": \"G3\", \"valores\": [3907, 4112]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "BORIS - MFC CLEAF APARADOR 240 FOLHA LISA",
+        "dims":  "[240.0, 54.0, 80.0]",
+        "floow_id":  "403224",
+        "floow_nome":  "Aparador BORIS 240X53.5X80",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [1994, 2273]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "BORIS APARADOR 200 FOLHA ESPINHADA",
+        "dims":  "[200.0, 54.0, 80.0]",
+        "floow_id":  "403221",
+        "floow_nome":  "Aparador BORIS 200X53.5X80",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [3344, 3546]}, {\"cat\": \"G2\", \"valores\": [3666, 3868]}, {\"cat\": \"G3\", \"valores\": [4297, 4522]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "BORIS - MFC CLEAF APARADOR 200 FOLHA LISA",
+        "dims":  "[200.0, 54.0, 80.0]",
+        "floow_id":  "403221",
+        "floow_nome":  "Aparador BORIS 200X53.5X80",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [1646, 1913]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "BORIS APARADOR 200 FOLHA LISA",
+        "dims":  "[200.0, 54.0, 80.0]",
+        "floow_id":  "403221",
+        "floow_nome":  "Aparador BORIS 200X53.5X80",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [2843, 3014]}, {\"cat\": \"G2\", \"valores\": [3115, 3363]}, {\"cat\": \"G3\", \"valores\": [3653, 3843]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "STRIKE APARADOR 200",
+        "dims":  "[200.0, 50.0, 82.0]",
+        "floow_id":  "408786",
+        "floow_nome":  "Aparador STRIKE 200X50X82",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [2964, 3225]}, {\"cat\": \"G2\", \"valores\": [3423, 3685]}, {\"cat\": \"G3\", \"valores\": [4177, 4469]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "STRIKE - MFC CLEAF APARADOR 200",
+        "dims":  "[200.0, 50.0, 82.0]",
+        "floow_id":  "408786",
+        "floow_nome":  "Aparador STRIKE 200X50X82",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [1437, 1585]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "STRIKE - MFC CLEAF APARADOR 240",
+        "dims":  "[240.0, 50.0, 82.0]",
+        "floow_id":  "408787",
+        "floow_nome":  "Aparador STRIKE 240X50X82",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [1595, 1744]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "STRIKE APARADOR 240",
+        "dims":  "[240.0, 50.0, 82.0]",
+        "floow_id":  "408787",
+        "floow_nome":  "Aparador STRIKE 240X50X82",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [3328, 3584]}, {\"cat\": \"G2\", \"valores\": [3742, 3998]}, {\"cat\": \"G3\", \"valores\": [4410, 5046]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "BERNARDINO - MFC CLEAF  APARADOR",
+        "dims":  "[200.0, 52.0, 80.0]",
+        "floow_id":  "360440",
+        "floow_nome":  "Aparador BERNARDINO 200x52x80",
+        "precos_v015":  "[{\"cat\": \"PVP\", \"valores\": [1551]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "BROWN APARADOR",
+        "dims":  "[240.0, 50.0, 85.0]",
+        "floow_id":  "63428",
+        "floow_nome":  "Aparador BROWN 240X50X85",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [4300, 4944]}, {\"cat\": \"G2\", \"valores\": [4618, 5260]}, {\"cat\": \"G3\", \"valores\": [4998, 5641]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "BROWN APARADOR TAMPO EM M1",
+        "dims":  "[240.0, 50.0, 85.0]",
+        "floow_id":  "63428",
+        "floow_nome":  "Aparador BROWN 240X50X85",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [5771, 6602]}, {\"cat\": \"G2\", \"valores\": [5976, 6822]}, {\"cat\": \"G3\", \"valores\": [6295, 7151]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "BROWN APARADOR TAMPO EM M2",
+        "dims":  "[240.0, 50.0, 85.0]",
+        "floow_id":  "63428",
+        "floow_nome":  "Aparador BROWN 240X50X85",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [7259, 7849]}, {\"cat\": \"G2\", \"valores\": [7452, 8049]}, {\"cat\": \"G3\", \"valores\": [7740, 8347]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "DEAN APARADOR 250",
+        "dims":  "[250.0, 51.0, 85.0]",
+        "floow_id":  "372171",
+        "floow_nome":  "Aparador DEAN 250X51X85",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [5673, 7103]}, {\"cat\": \"G2\", \"valores\": [6275, 7748]}, {\"cat\": \"G3\", \"valores\": [6941, 8465]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "DEAN APARADOR 250 TAMPO EM M1",
+        "dims":  "[250.0, 51.0, 85.0]",
+        "floow_id":  "372171",
+        "floow_nome":  "Aparador DEAN 250X51X85",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [7277, 7799]}, {\"cat\": \"G2\", \"valores\": [7925, 8415]}, {\"cat\": \"G3\", \"valores\": [8624, 9079]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "DEAN APARADOR 250 TAMPO EM M2",
+        "dims":  "[250.0, 51.0, 85.0]",
+        "floow_id":  "372171",
+        "floow_nome":  "Aparador DEAN 250X51X85",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [8319, 8451]}, {\"cat\": \"G2\", \"valores\": [8967, 9042]}, {\"cat\": \"G3\", \"valores\": [9666, 9680]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "DEAN APARADOR 200",
+        "dims":  "[200.0, 51.0, 85.0]",
+        "floow_id":  "372160",
+        "floow_nome":  "Aparador DEAN 200X51X85",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [4927, 6356]}, {\"cat\": \"G2\", \"valores\": [5377, 6846]}, {\"cat\": \"G3\", \"valores\": [5905, 7419]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "DEAN APARADOR 200 TAMPO EM M1",
+        "dims":  "[200.0, 51.0, 85.0]",
+        "floow_id":  "372160",
+        "floow_nome":  "Aparador DEAN 200X51X85",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [6000, 7356]}, {\"cat\": \"G2\", \"valores\": [6465, 7846]}, {\"cat\": \"G3\", \"valores\": [6995, 8406]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "DEAN APARADOR 200 TAMPO EM M2",
+        "dims":  "[200.0, 51.0, 85.0]",
+        "floow_id":  "372160",
+        "floow_nome":  "Aparador DEAN 200X51X85",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [6707, 7401]}, {\"cat\": \"G2\", \"valores\": [7174, 7849]}, {\"cat\": \"G3\", \"valores\": [7704, 8359]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "RICK APARADOR 200",
+        "dims":  "[200.0, 50.0, 80.0]",
+        "floow_id":  "404730",
+        "floow_nome":  "Aparador RICK 200X50X80",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [2929, 3280]}, {\"cat\": \"G2\", \"valores\": [3597, 3950]}, {\"cat\": \"G3\", \"valores\": [4287, 4627]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "RICK APARADOR 200 TAMPO CERÂMICO",
+        "dims":  "[200.0, 50.0, 80.0]",
+        "floow_id":  "404730",
+        "floow_nome":  "Aparador RICK 200X50X80",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [4394, 4709]}, {\"cat\": \"G2\", \"valores\": [4994, 5308]}, {\"cat\": \"G3\", \"valores\": [5684, 5999]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "RICK APARADOR 240",
+        "dims":  "[240.0, 50.0, 80.0]",
+        "floow_id":  "404725",
+        "floow_nome":  "Aparador RICK 240X50X80",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [3276, 3615]}, {\"cat\": \"G2\", \"valores\": [3970, 4308]}, {\"cat\": \"G3\", \"valores\": [4752, 5081]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "RICK APARADOR 240 TAMPO CERÂMICO",
+        "dims":  "[240.0, 50.0, 80.0]",
+        "floow_id":  "404725",
+        "floow_nome":  "Aparador RICK 240X50X80",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [4933, 5237]}, {\"cat\": \"G2\", \"valores\": [5554, 5858]}, {\"cat\": \"G3\", \"valores\": [6343, 6646]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "MACAU APARADOR",
+        "dims":  "[220.0, 52.0, 80.0]",
+        "floow_id":  "398474",
+        "floow_nome":  "Aparador MACAU 220X52X80",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [2571, 2687]}, {\"cat\": \"G2\", \"valores\": [3149, 3266]}, {\"cat\": \"G3\", \"valores\": [3343, 3459]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "MACAU APARADOR ESSENTIAL",
+        "dims":  "[190.0, 52.0, 80.0]",
+        "floow_id":  "398475",
+        "floow_nome":  "Aparador MACAU 190X52X80",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [1858, 1947]}, {\"cat\": \"G2\", \"valores\": [2259, 2348]}, {\"cat\": \"G3\", \"valores\": [2482, 2572]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "MACAU - MFC CLEAF APARADOR ESSENTIAL",
+        "dims":  "[190.0, 52.0, 80.0]",
+        "floow_id":  "398475",
+        "floow_nome":  "Aparador MACAU 190X52X80",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [1423, 1539]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "MACAU - MFC CLEAF APARADOR",
+        "dims":  "[220.0, 52.0, 80.0]",
+        "floow_id":  "398474",
+        "floow_nome":  "Aparador MACAU 220X52X80",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [1701, 1840]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "AUSTEN APARADOR COM GAVETAS E SEM LED",
+        "dims":  "[220.0, 50.0, 87.0]",
+        "floow_id":  "411457",
+        "floow_nome":  "Aparador AUSTEN 220X51.7X87.2",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [4157]}, {\"cat\": \"G2\", \"valores\": [4542]}, {\"cat\": \"G3\", \"valores\": [4803]}]",
+        "matriz_floow":  "{\"name\":null,\"value\":0}"
+    },
+    {
+        "nome_v015":  "AUSTEN APARADOR COM GAVETAS",
+        "dims":  "[220.0, 50.0, 87.0]",
+        "floow_id":  "411457",
+        "floow_nome":  "Aparador AUSTEN 220X51.7X87.2",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [4407]}, {\"cat\": \"G2\", \"valores\": [4793]}, {\"cat\": \"G3\", \"valores\": [5054]}]",
+        "matriz_floow":  "{\"name\":null,\"value\":0}"
+    },
+    {
+        "nome_v015":  "AUSTEN APARADOR SEM GAVETAS",
+        "dims":  "[220.0, 50.0, 87.0]",
+        "floow_id":  "411457",
+        "floow_nome":  "Aparador AUSTEN 220X51.7X87.2",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [3748]}, {\"cat\": \"G2\", \"valores\": [4090]}, {\"cat\": \"G3\", \"valores\": [4266]}]",
+        "matriz_floow":  "{\"name\":null,\"value\":0}"
+    },
+    {
+        "nome_v015":  "AUSTEN APARADOR SEM GAVETAS E SEM LED",
+        "dims":  "[220.0, 50.0, 87.0]",
+        "floow_id":  "411457",
+        "floow_nome":  "Aparador AUSTEN 220X51.7X87.2",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [3496]}, {\"cat\": \"G2\", \"valores\": [3840]}, {\"cat\": \"G3\", \"valores\": [4014]}]",
+        "matriz_floow":  "{\"name\":null,\"value\":0}"
+    },
+    {
+        "nome_v015":  "NAXOS - MFC CLEAF APARADOR",
+        "dims":  "[208.0, 50.0, 80.0]",
+        "floow_id":  "310422",
+        "floow_nome":  "Aparador NAXOS 208X50X80",
+        "precos_v015":  "[{\"cat\": \"PVP\", \"valores\": [1535]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "NAXOS APARADOR",
+        "dims":  "[208.0, 50.0, 80.0]",
+        "floow_id":  "310422",
+        "floow_nome":  "Aparador NAXOS 208X50X80",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [1810]}, {\"cat\": \"G2\", \"valores\": [2287]}, {\"cat\": \"G3\", \"valores\": [2773]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "KAIROS - MFC CLEAF APARADOR",
+        "dims":  "[200.0, 50.0, 80.0]",
+        "floow_id":  "402579",
+        "floow_nome":  "Aparador KAIROS 200X50X80",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [1523, 1741]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "KAIROS APARADOR",
+        "dims":  "[200.0, 50.0, 80.0]",
+        "floow_id":  "402579",
+        "floow_nome":  "Aparador KAIROS 200X50X80",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [1917, 2008]}, {\"cat\": \"G2\", \"valores\": [2643, 2655]}, {\"cat\": \"G3\", \"valores\": [2870, 2883]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "ARI APARADOR EM LAMINADO",
+        "dims":  "[165.0, 50.0, 85.0]",
+        "floow_id":  "301714",
+        "floow_nome":  "Aparador ARI 165X50X85",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [1779, 1999]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "DESMOND APARADOR 206",
+        "dims":  "[206.0, 52.0, 81.0]",
+        "floow_id":  "287576",
+        "floow_nome":  "Aparador DESMOND 205.5X51.5X81",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [2827]}, {\"cat\": \"G2\", \"valores\": [3234]}, {\"cat\": \"G3\", \"valores\": [3510]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "DESMOND APARADOR 206 EM LAMINADO",
+        "dims":  "[206.0, 52.0, 81.0]",
+        "floow_id":  "287576",
+        "floow_nome":  "Aparador DESMOND 205.5X51.5X81",
+        "precos_v015":  "[{\"cat\": \"PVP\", \"valores\": [2545]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "DESMOND APARADOR 206 TAMPO CERÂMICO",
+        "dims":  "[206.0, 52.0, 81.0]",
+        "floow_id":  "287576",
+        "floow_nome":  "Aparador DESMOND 205.5X51.5X81",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [3303]}, {\"cat\": \"G2\", \"valores\": [3710]}, {\"cat\": \"G3\", \"valores\": [3986]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "DESMOND APARADOR 240 COM NICHO EM CERÂMICA",
+        "dims":  "[240.0, 52.0, 81.0]",
+        "floow_id":  "288785",
+        "floow_nome":  "Aparador DESMOND 240X51.5X81",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [3209]}, {\"cat\": \"G2\", \"valores\": [3667]}, {\"cat\": \"G3\", \"valores\": [3967]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "DESMOND APARADOR 206 EM LAMINADO TAMPO CERÂMICO",
+        "dims":  "[206.0, 52.0, 81.0]",
+        "floow_id":  "287576",
+        "floow_nome":  "Aparador DESMOND 205.5X51.5X81",
+        "precos_v015":  "[{\"cat\": \"PVP\", \"valores\": [3021]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "DESMOND APARADOR 240 COM NICHO",
+        "dims":  "[240.0, 52.0, 81.0]",
+        "floow_id":  "288785",
+        "floow_nome":  "Aparador DESMOND 240X51.5X81",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [3003]}, {\"cat\": \"G2\", \"valores\": [3461]}, {\"cat\": \"G3\", \"valores\": [3761]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "DESMOND APARADOR 240 EM LAMINADO COM NICHO EM CERÂMICA",
+        "dims":  "[240.0, 52.0, 81.0]",
+        "floow_id":  "288785",
+        "floow_nome":  "Aparador DESMOND 240X51.5X81",
+        "precos_v015":  "[{\"cat\": \"PVP\", \"valores\": [2867]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "DESMOND APARADOR 240 EM LAMINADO COM NICHO",
+        "dims":  "[240.0, 52.0, 81.0]",
+        "floow_id":  "288785",
+        "floow_nome":  "Aparador DESMOND 240X51.5X81",
+        "precos_v015":  "[{\"cat\": \"PVP\", \"valores\": [2661]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "NYSA APARADOR EM LAMINADO",
+        "dims":  "[160.0, 45.0, 79.0]",
+        "floow_id":  "311896",
+        "floow_nome":  "Aparador NYSA 160X45X79",
+        "precos_v015":  "[{\"cat\": \"PVP\", \"valores\": [1384]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "SILVA - MFC CLEAF APARADOR",
+        "dims":  "[200.0, 50.0, 85.0]",
+        "floow_id":  "360439",
+        "floow_nome":  "Aparador SILVA 200x50x85",
+        "precos_v015":  "[{\"cat\": \"PVP\", \"valores\": [1486]}]",
+        "matriz_floow":  "{\"name\":null,\"value\":0}"
+    },
+    {
+        "nome_v015":  "LILI CADEIRA",
+        "dims":  "[60.0, 53.0, 80.0]",
+        "floow_id":  "236709",
+        "floow_nome":  "Cadeira LILI 60X53X82",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [1472]}, {\"cat\": \"C2\", \"valores\": [2521]}, {\"cat\": \"C3\", \"valores\": [3599]}, {\"cat\": \"C4\", \"valores\": [4677]}, {\"cat\": \"C5\", \"valores\": [5793]}, {\"cat\": \"C6\", \"valores\": [6910]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "ESTORIL CADEIRA",
+        "dims":  "[51.0, 56.0, 87.0]",
+        "floow_id":  "208117",
+        "floow_nome":  "Cadeira ESTORIL  51X56X85",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [1412]}, {\"cat\": \"C2\", \"valores\": [2478]}, {\"cat\": \"C3\", \"valores\": [3584]}, {\"cat\": \"C4\", \"valores\": [4690]}, {\"cat\": \"C5\", \"valores\": [5849]}, {\"cat\": \"C6\", \"valores\": [1007]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "ESTORIL CADEIRA",
+        "dims":  "[51.0, 56.0, 87.0]",
+        "floow_id":  "208117",
+        "floow_nome":  "Cadeira ESTORIL  51X56X85",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [1448]}, {\"cat\": \"C2\", \"valores\": [2515]}, {\"cat\": \"C3\", \"valores\": [3621]}, {\"cat\": \"C4\", \"valores\": [4726]}, {\"cat\": \"C5\", \"valores\": [5885]}, {\"cat\": \"C6\", \"valores\": [1043]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "AMOUR CADEIRA",
+        "dims":  "[58.0, 61.0, 86.0]",
+        "floow_id":  "312769",
+        "floow_nome":  "Cadeira AMOUR 58X61X86",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [1422]}, {\"cat\": \"C2\", \"valores\": [2487]}, {\"cat\": \"C3\", \"valores\": [3589]}, {\"cat\": \"C4\", \"valores\": [4692]}, {\"cat\": \"C5\", \"valores\": [5846]}, {\"cat\": \"C6\", \"valores\": [6999]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "AMOUR CADEIRA",
+        "dims":  "[58.0, 61.0, 86.0]",
+        "floow_id":  "312769",
+        "floow_nome":  "Cadeira AMOUR 58X61X86",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [1460]}, {\"cat\": \"C2\", \"valores\": [2525]}, {\"cat\": \"C3\", \"valores\": [3627]}, {\"cat\": \"C4\", \"valores\": [4730]}, {\"cat\": \"C5\", \"valores\": [5883]}, {\"cat\": \"C6\", \"valores\": [1037]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "SIMONE CADEIRA",
+        "dims":  "[55.0, 59.0, 93.0]",
+        "floow_id":  "63470",
+        "floow_nome":  "Cadeira SIMONE 55X59X93",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [1413]}, {\"cat\": \"C2\", \"valores\": [2485]}, {\"cat\": \"C3\", \"valores\": [3794]}, {\"cat\": \"C4\", \"valores\": [1025]}, {\"cat\": \"C5\", \"valores\": [1025]}, {\"cat\": \"C6\", \"valores\": [1127]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "SIMONE CADEIRA",
+        "dims":  "[55.0, 59.0, 93.0]",
+        "floow_id":  "63470",
+        "floow_nome":  "Cadeira SIMONE 55X59X93",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [1553, 584]}, {\"cat\": \"C2\", \"valores\": [2649, 685]}, {\"cat\": \"C3\", \"valores\": [3968, 1022]}, {\"cat\": \"C4\", \"valores\": [1186, 1275]}, {\"cat\": \"C5\", \"valores\": [1186, 1275]}, {\"cat\": \"C6\", \"valores\": [1304, 1419]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "SIMONE CADEIRA COM CAPITONÉ",
+        "dims":  "[55.0, 59.0, 93.0]",
+        "floow_id":  "63470",
+        "floow_nome":  "Cadeira SIMONE 55X59X93",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [1482]}, {\"cat\": \"C2\", \"valores\": [2585]}, {\"cat\": \"C3\", \"valores\": [3988]}, {\"cat\": \"C4\", \"valores\": [1136]}, {\"cat\": \"C5\", \"valores\": [1136]}, {\"cat\": \"C6\", \"valores\": [1248]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "NELLY CADEIRA",
+        "dims":  "[56.0, 59.0, 85.0]",
+        "floow_id":  "63473",
+        "floow_nome":  "Cadeira NELLY 56X59X85",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [1500]}, {\"cat\": \"C2\", \"valores\": [2615]}, {\"cat\": \"C3\", \"valores\": [3719]}, {\"cat\": \"C4\", \"valores\": [4821]}, {\"cat\": \"C5\", \"valores\": [5976]}, {\"cat\": \"C6\", \"valores\": [1131]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "AMBROSE CADEIRA",
+        "dims":  "[61.0, 57.0, 82.0]",
+        "floow_id":  "370975",
+        "floow_nome":  "Cadeira AMBROSE 61X57X82",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [1771]}, {\"cat\": \"C2\", \"valores\": [2842]}, {\"cat\": \"C3\", \"valores\": [3956]}, {\"cat\": \"C4\", \"valores\": [1069]}, {\"cat\": \"C5\", \"valores\": [1238]}, {\"cat\": \"C6\", \"valores\": [1409]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "AMBROSE CADEIRA",
+        "dims":  "[61.0, 57.0, 82.0]",
+        "floow_id":  "370975",
+        "floow_nome":  "Cadeira AMBROSE 61X57X82",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [1809]}, {\"cat\": \"C2\", \"valores\": [2880]}, {\"cat\": \"C3\", \"valores\": [3992]}, {\"cat\": \"C4\", \"valores\": [1106]}, {\"cat\": \"C5\", \"valores\": [1276]}, {\"cat\": \"C6\", \"valores\": [1445]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "DUBLIN CADEIRA",
+        "dims":  "[52.0, 50.0, 85.0]",
+        "floow_id":  "88935",
+        "floow_nome":  "Cadeira DUBLIN 52X50X85",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [1540]}, {\"cat\": \"C2\", \"valores\": [2603]}, {\"cat\": \"C3\", \"valores\": [3703]}, {\"cat\": \"C4\", \"valores\": [4802]}, {\"cat\": \"C5\", \"valores\": [5953]}, {\"cat\": \"C6\", \"valores\": [1102]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "DALE CADEIRA 58,5",
+        "dims":  "[59.0, 49.0, 78.0]",
+        "floow_id":  "371318",
+        "floow_nome":  "Cadeira DALE 58.5X49X78",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [1052]}, {\"cat\": \"C2\", \"valores\": [1099]}, {\"cat\": \"C3\", \"valores\": [1175]}, {\"cat\": \"C4\", \"valores\": [1252]}, {\"cat\": \"C5\", \"valores\": [1367]}, {\"cat\": \"C6\", \"valores\": [1482]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "DALE CADEIRA 66",
+        "dims":  "[66.0, 53.0, 78.0]",
+        "floow_id":  "371324",
+        "floow_nome":  "Cadeira DALE LARGE 66x53x78",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [1117]}, {\"cat\": \"C2\", \"valores\": [1166]}, {\"cat\": \"C3\", \"valores\": [1246]}, {\"cat\": \"C4\", \"valores\": [1327]}, {\"cat\": \"C5\", \"valores\": [1447]}, {\"cat\": \"C6\", \"valores\": [1570]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "JAYNE CADEIRA",
+        "dims":  "[54.0, 55.0, 82.0]",
+        "floow_id":  "244276",
+        "floow_nome":  "Cadeira JAYNE 54X55X82",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [1593, 619]}, {\"cat\": \"C2\", \"valores\": [2620, 647]}, {\"cat\": \"C3\", \"valores\": [3666, 692]}, {\"cat\": \"C4\", \"valores\": [4710, 737]}, {\"cat\": \"C5\", \"valores\": [5778, 804]}, {\"cat\": \"C6\", \"valores\": [6846, 871]}]",
+        "matriz_floow":  "{\"name\":null,\"value\":0}"
+    },
+    {
+        "nome_v015":  "CHRONOS CADEIRA",
+        "dims":  "[55.0, 58.0, 78.0]",
+        "floow_id":  "409032",
+        "floow_nome":  "Cadeira CHRONOS 54.5X58X78",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [1299, 401]}, {\"cat\": \"C2\", \"valores\": [2331, 437]}, {\"cat\": \"C3\", \"valores\": [3369, 476]}, {\"cat\": \"C4\", \"valores\": [4408, 515]}, {\"cat\": \"C5\", \"valores\": [5466, 573]}, {\"cat\": \"C6\", \"valores\": [6534, 641]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "JAYNE CADEIRA COM BRAÇOS",
+        "dims":  "[54.0, 55.0, 82.0]",
+        "floow_id":  "244276",
+        "floow_nome":  "Cadeira JAYNE 54X55X82",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [1778, 817]}, {\"cat\": \"C2\", \"valores\": [2806, 846]}, {\"cat\": \"C3\", \"valores\": [3851, 891]}, {\"cat\": \"C4\", \"valores\": [4897, 936]}, {\"cat\": \"C5\", \"valores\": [5964, 1004]}, {\"cat\": \"C6\", \"valores\": [1031, 1071]}]",
+        "matriz_floow":  "{\"name\":null,\"value\":0}"
+    },
+    {
+        "nome_v015":  "ATHENA CADEIRA",
+        "dims":  "[56.0, 60.0, 87.0]",
+        "floow_id":  "369924",
+        "floow_nome":  "Cadeira ATHENA 56X59.8X86.9",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [1402]}, {\"cat\": \"C2\", \"valores\": [2459]}, {\"cat\": \"C3\", \"valores\": [3548]}, {\"cat\": \"C4\", \"valores\": [4638]}, {\"cat\": \"C5\", \"valores\": [5773]}, {\"cat\": \"C6\", \"valores\": [6908]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "CHALKI CADEIRA",
+        "dims":  "[48.0, 46.0, 80.0]",
+        "floow_id":  "301869",
+        "floow_nome":  "Cadeira CHALKI 48X46X80",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [1598]}, {\"cat\": \"C2\", \"valores\": [2625]}, {\"cat\": \"C3\", \"valores\": [3670]}, {\"cat\": \"C4\", \"valores\": [4714]}, {\"cat\": \"C5\", \"valores\": [5781]}, {\"cat\": \"C6\", \"valores\": [6848]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "AVA CADEIRA",
+        "dims":  "[58.0, 55.0, 80.0]",
+        "floow_id":  "289765",
+        "floow_nome":  "Cadeira AVA 59X54X79",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [1914]}, {\"cat\": \"C2\", \"valores\": [2959]}, {\"cat\": \"C3\", \"valores\": [1031]}, {\"cat\": \"C4\", \"valores\": [1103]}, {\"cat\": \"C5\", \"valores\": [1211]}, {\"cat\": \"C6\", \"valores\": [1319]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "USO CAMA",
+        "dims":  "[109.0, 210.0, 100.0]",
+        "floow_id":  "383756",
+        "floow_nome":  "Cama USO (Col 98x200) 109.2X210.1X100",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [1119]}, {\"cat\": \"G2\", \"valores\": [1385]}, {\"cat\": \"G3\", \"valores\": [1506]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "USO CAMA",
+        "dims":  "[161.0, 210.0, 100.0]",
+        "floow_id":  "390357",
+        "floow_nome":  "Cama USO (Col 150x200) 161.2X210.1X100",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [1268]}, {\"cat\": \"G2\", \"valores\": [1555]}, {\"cat\": \"G3\", \"valores\": [1721]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "USO CAMA",
+        "dims":  "[171.0, 210.0, 100.0]",
+        "floow_id":  "383785",
+        "floow_nome":  "Cama USO (Col 160x200) 171.2X210.1X100",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [1286]}, {\"cat\": \"G2\", \"valores\": [1578]}, {\"cat\": \"G3\", \"valores\": [1751]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "USO CAMA",
+        "dims":  "[191.0, 210.0, 100.0]",
+        "floow_id":  "383817",
+        "floow_nome":  "Cama USO (Col 180x200) 191.2X210.1X100",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [1322]}, {\"cat\": \"G2\", \"valores\": [1621]}, {\"cat\": \"G3\", \"valores\": [1810]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "NORMA CAMA",
+        "dims":  "[170.0, 226.0, 90.0]",
+        "floow_id":  "397381",
+        "floow_nome":  "Cama NORMA (Col 160x200) 170X226.4X90",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [1553]}, {\"cat\": \"C2\", \"valores\": [1666]}, {\"cat\": \"C3\", \"valores\": [1844]}, {\"cat\": \"C4\", \"valores\": [2022]}, {\"cat\": \"C5\", \"valores\": [2289]}, {\"cat\": \"C6\", \"valores\": [2556]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "NORMA CAMA",
+        "dims":  "[190.0, 226.0, 90.0]",
+        "floow_id":  "397383",
+        "floow_nome":  "Cama NORMA (Col 180x200) 190X226.4X90",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [1578]}, {\"cat\": \"C2\", \"valores\": [1692]}, {\"cat\": \"C3\", \"valores\": [1875]}, {\"cat\": \"C4\", \"valores\": [2056]}, {\"cat\": \"C5\", \"valores\": [2330]}, {\"cat\": \"C6\", \"valores\": [2603]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "HARRY CAMA COM RODAPÉ EM MADEIRA / HPL",
+        "dims":  "[172.0, 225.0, 110.0]",
+        "floow_id":  "393341",
+        "floow_nome":  "Cama HARRY (Col 160x200) 172X224.9X110",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [2385]}, {\"cat\": \"C2\", \"valores\": [2948]}, {\"cat\": \"C3\", \"valores\": [3711]}, {\"cat\": \"C4\", \"valores\": [5110]}, {\"cat\": \"C5\", \"valores\": [5110]}, {\"cat\": \"C6\", \"valores\": [5622]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "HARRY CAMA COM RODAPÉ EM MADEIRA / HPL",
+        "dims":  "[192.0, 225.0, 110.0]",
+        "floow_id":  "393342",
+        "floow_nome":  "Cama HARRY (Col 180x200) 192X224.9X110",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [2570]}, {\"cat\": \"C2\", \"valores\": [3175]}, {\"cat\": \"C3\", \"valores\": [4036]}, {\"cat\": \"C4\", \"valores\": [5555]}, {\"cat\": \"C5\", \"valores\": [5555]}, {\"cat\": \"C6\", \"valores\": [6112]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "BROOKE CAMA COM ACABAMENTO G3",
+        "dims":  "[175.0, 222.0, 90.0]",
+        "floow_id":  "383186",
+        "floow_nome":  "Cama BROOKE (Col 160x200) 175,2X222,1X89,8",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [2736]}, {\"cat\": \"C2\", \"valores\": [2815]}, {\"cat\": \"C3\", \"valores\": [2956]}, {\"cat\": \"C4\", \"valores\": [3053]}, {\"cat\": \"C5\", \"valores\": [3255]}, {\"cat\": \"C6\", \"valores\": [3447]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "BROOKE CAMA COM ACABAMENTO G3",
+        "dims":  "[195.0, 222.0, 90.0]",
+        "floow_id":  "383187",
+        "floow_nome":  "Cama BROOKE (Col 180x200) 195,5X222,1X89,8",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [2829]}, {\"cat\": \"C2\", \"valores\": [2907]}, {\"cat\": \"C3\", \"valores\": [3048]}, {\"cat\": \"C4\", \"valores\": [3145]}, {\"cat\": \"C5\", \"valores\": [3347]}, {\"cat\": \"C6\", \"valores\": [3540]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "BONNIE ESSENTIAL C/ PRATELEIRA  CAMA COM ACABAMENTO G1",
+        "dims":  "[309.0, 214.0, 95.0]",
+        "floow_id":  "385014",
+        "floow_nome":  "Cama BONNIE (Col. 160x200) 309X214X95",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [1583]}, {\"cat\": \"C2\", \"valores\": [2256]}, {\"cat\": \"C3\", \"valores\": [2601]}, {\"cat\": \"C4\", \"valores\": [2946]}, {\"cat\": \"C5\", \"valores\": [3463]}, {\"cat\": \"C6\", \"valores\": [3980]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "BONNIE ESSENTIAL C/ PRATELEIRA  CAMA COM ACABAMENTO G1",
+        "dims":  "[329.0, 214.0, 95.0]",
+        "floow_id":  "385016",
+        "floow_nome":  "Cama BONNIE (Col. 180x200) 329X214X95",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [2054]}, {\"cat\": \"C2\", \"valores\": [2277]}, {\"cat\": \"C3\", \"valores\": [2634]}, {\"cat\": \"C4\", \"valores\": [2991]}, {\"cat\": \"C5\", \"valores\": [3526]}, {\"cat\": \"C6\", \"valores\": [4061]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "BONNIE CAMA COM ACABAMENTO G1",
+        "dims":  "[309.0, 214.0, 95.0]",
+        "floow_id":  "385014",
+        "floow_nome":  "Cama BONNIE (Col. 160x200) 309X214X95",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [3252]}, {\"cat\": \"C2\", \"valores\": [3457]}, {\"cat\": \"C3\", \"valores\": [3785]}, {\"cat\": \"C4\", \"valores\": [4114]}, {\"cat\": \"C5\", \"valores\": [4607]}, {\"cat\": \"C6\", \"valores\": [5100]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "BONNIE CAMA COM ACABAMENTO G1",
+        "dims":  "[329.0, 214.0, 95.0]",
+        "floow_id":  "385016",
+        "floow_nome":  "Cama BONNIE (Col. 180x200) 329X214X95",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [3265]}, {\"cat\": \"C2\", \"valores\": [3477]}, {\"cat\": \"C3\", \"valores\": [3817]}, {\"cat\": \"C4\", \"valores\": [4157]}, {\"cat\": \"C5\", \"valores\": [4667]}, {\"cat\": \"C6\", \"valores\": [5177]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "BONNIE ESSENTIAL CAMA COM ACABAMENTO G1",
+        "dims":  "[309.0, 214.0, 95.0]",
+        "floow_id":  "385014",
+        "floow_nome":  "Cama BONNIE (Col. 160x200) 309X214X95",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [2399]}, {\"cat\": \"C2\", \"valores\": [2604]}, {\"cat\": \"C3\", \"valores\": [2932]}, {\"cat\": \"C4\", \"valores\": [3261]}, {\"cat\": \"C5\", \"valores\": [3754]}, {\"cat\": \"C6\", \"valores\": [4247]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "BONNIE ESSENTIAL CAMA COM ACABAMENTO G1",
+        "dims":  "[329.0, 214.0, 95.0]",
+        "floow_id":  "385016",
+        "floow_nome":  "Cama BONNIE (Col. 180x200) 329X214X95",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [2421]}, {\"cat\": \"C2\", \"valores\": [2633]}, {\"cat\": \"C3\", \"valores\": [2973]}, {\"cat\": \"C4\", \"valores\": [3312]}, {\"cat\": \"C5\", \"valores\": [3822]}, {\"cat\": \"C6\", \"valores\": [4332]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "BONNIE ESSENTIAL C/ PRATELEIRA  CAMA COM ACABAMENTO G2",
+        "dims":  "[309.0, 214.0, 95.0]",
+        "floow_id":  "385014",
+        "floow_nome":  "Cama BONNIE (Col. 160x200) 309X214X95",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [2104]}, {\"cat\": \"C2\", \"valores\": [2320]}, {\"cat\": \"C3\", \"valores\": [2665]}, {\"cat\": \"C4\", \"valores\": [3010]}, {\"cat\": \"C5\", \"valores\": [3528]}, {\"cat\": \"C6\", \"valores\": [4045]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "BONNIE ESSENTIAL C/ PRATELEIRA  CAMA COM ACABAMENTO G2",
+        "dims":  "[329.0, 214.0, 95.0]",
+        "floow_id":  "385016",
+        "floow_nome":  "Cama BONNIE (Col. 180x200) 329X214X95",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [2119]}, {\"cat\": \"C2\", \"valores\": [2341]}, {\"cat\": \"C3\", \"valores\": [2699]}, {\"cat\": \"C4\", \"valores\": [3055]}, {\"cat\": \"C5\", \"valores\": [3591]}, {\"cat\": \"C6\", \"valores\": [4126]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "BONNIE CAMA COM ACABAMENTO G2",
+        "dims":  "[309.0, 214.0, 95.0]",
+        "floow_id":  "385014",
+        "floow_nome":  "Cama BONNIE (Col. 160x200) 309X214X95",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [3394]}, {\"cat\": \"C2\", \"valores\": [3600]}, {\"cat\": \"C3\", \"valores\": [3928]}, {\"cat\": \"C4\", \"valores\": [4257]}, {\"cat\": \"C5\", \"valores\": [4749]}, {\"cat\": \"C6\", \"valores\": [5243]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "BONNIE CAMA COM ACABAMENTO G2",
+        "dims":  "[329.0, 214.0, 95.0]",
+        "floow_id":  "385016",
+        "floow_nome":  "Cama BONNIE (Col. 180x200) 329X214X95",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [3407]}, {\"cat\": \"C2\", \"valores\": [3620]}, {\"cat\": \"C3\", \"valores\": [3959]}, {\"cat\": \"C4\", \"valores\": [4300]}, {\"cat\": \"C5\", \"valores\": [4809]}, {\"cat\": \"C6\", \"valores\": [5319]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "BONNIE ESSENTIAL CAMA COM ACABAMENTO G2",
+        "dims":  "[309.0, 214.0, 95.0]",
+        "floow_id":  "385014",
+        "floow_nome":  "Cama BONNIE (Col. 160x200) 309X214X95",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [2510]}, {\"cat\": \"C2\", \"valores\": [2716]}, {\"cat\": \"C3\", \"valores\": [3044]}, {\"cat\": \"C4\", \"valores\": [3373]}, {\"cat\": \"C5\", \"valores\": [3866]}, {\"cat\": \"C6\", \"valores\": [4358]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "BONNIE ESSENTIAL CAMA COM ACABAMENTO G2",
+        "dims":  "[329.0, 214.0, 95.0]",
+        "floow_id":  "385016",
+        "floow_nome":  "Cama BONNIE (Col. 180x200) 329X214X95",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [2532]}, {\"cat\": \"C2\", \"valores\": [2745]}, {\"cat\": \"C3\", \"valores\": [3084]}, {\"cat\": \"C4\", \"valores\": [3425]}, {\"cat\": \"C5\", \"valores\": [3934]}, {\"cat\": \"C6\", \"valores\": [4443]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "BONNIE ESSENTIAL C/ PRATELEIRA  CAMA COM ACABAMENTO G3",
+        "dims":  "[309.0, 214.0, 95.0]",
+        "floow_id":  "385014",
+        "floow_nome":  "Cama BONNIE (Col. 160x200) 309X214X95",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [2169]}, {\"cat\": \"C2\", \"valores\": [2384]}, {\"cat\": \"C3\", \"valores\": [2730]}, {\"cat\": \"C4\", \"valores\": [3075]}, {\"cat\": \"C5\", \"valores\": [3592]}, {\"cat\": \"C6\", \"valores\": [4110]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "BONNIE ESSENTIAL C/ PRATELEIRA  CAMA COM ACABAMENTO G3",
+        "dims":  "[329.0, 214.0, 95.0]",
+        "floow_id":  "385016",
+        "floow_nome":  "Cama BONNIE (Col. 180x200) 329X214X95",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [2183]}, {\"cat\": \"C2\", \"valores\": [2406]}, {\"cat\": \"C3\", \"valores\": [2762]}, {\"cat\": \"C4\", \"valores\": [3120]}, {\"cat\": \"C5\", \"valores\": [3654]}, {\"cat\": \"C6\", \"valores\": [4190]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "BONNIE ESSENTIAL CAMA COM ACABAMENTO G3",
+        "dims":  "[309.0, 214.0, 95.0]",
+        "floow_id":  "385014",
+        "floow_nome":  "Cama BONNIE (Col. 160x200) 309X214X95",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [2621]}, {\"cat\": \"C2\", \"valores\": [2827]}, {\"cat\": \"C3\", \"valores\": [3156]}, {\"cat\": \"C4\", \"valores\": [3484]}, {\"cat\": \"C5\", \"valores\": [3977]}, {\"cat\": \"C6\", \"valores\": [4470]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "BONNIE ESSENTIAL CAMA COM ACABAMENTO G3",
+        "dims":  "[329.0, 214.0, 95.0]",
+        "floow_id":  "385016",
+        "floow_nome":  "Cama BONNIE (Col. 180x200) 329X214X95",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [2643]}, {\"cat\": \"C2\", \"valores\": [2856]}, {\"cat\": \"C3\", \"valores\": [3196]}, {\"cat\": \"C4\", \"valores\": [3536]}, {\"cat\": \"C5\", \"valores\": [4045]}, {\"cat\": \"C6\", \"valores\": [4555]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "BONNIE CAMA COM ACABAMENTO G3",
+        "dims":  "[309.0, 214.0, 95.0]",
+        "floow_id":  "385014",
+        "floow_nome":  "Cama BONNIE (Col. 160x200) 309X214X95",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [3537]}, {\"cat\": \"C2\", \"valores\": [3742]}, {\"cat\": \"C3\", \"valores\": [4071]}, {\"cat\": \"C4\", \"valores\": [4399]}, {\"cat\": \"C5\", \"valores\": [4891]}, {\"cat\": \"C6\", \"valores\": [5385]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "BONNIE CAMA COM ACABAMENTO G3",
+        "dims":  "[329.0, 214.0, 95.0]",
+        "floow_id":  "385016",
+        "floow_nome":  "Cama BONNIE (Col. 180x200) 329X214X95",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [3550]}, {\"cat\": \"C2\", \"valores\": [3763]}, {\"cat\": \"C3\", \"valores\": [4102]}, {\"cat\": \"C4\", \"valores\": [4442]}, {\"cat\": \"C5\", \"valores\": [4952]}, {\"cat\": \"C6\", \"valores\": [5462]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "JODY CAMA",
+        "dims":  "[107.0, 216.0, 100.0]",
+        "floow_id":  "376228",
+        "floow_nome":  "Cama JODY (Col. 98x200) 107X215,5X100",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [1463]}, {\"cat\": \"C2\", \"valores\": [1569]}, {\"cat\": \"C3\", \"valores\": [1739]}, {\"cat\": \"C4\", \"valores\": [1908]}, {\"cat\": \"C5\", \"valores\": [2163]}, {\"cat\": \"C6\", \"valores\": [2417]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "JODY CAMA",
+        "dims":  "[159.0, 216.0, 100.0]",
+        "floow_id":  "376229",
+        "floow_nome":  "Cama JODY (Col. 150x200) 159X215,5X100",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [1643]}, {\"cat\": \"C2\", \"valores\": [1762]}, {\"cat\": \"C3\", \"valores\": [1953]}, {\"cat\": \"C4\", \"valores\": [2145]}, {\"cat\": \"C5\", \"valores\": [2431]}, {\"cat\": \"C6\", \"valores\": [2717]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "JODY CAMA",
+        "dims":  "[169.0, 216.0, 100.0]",
+        "floow_id":  "376230",
+        "floow_nome":  "Cama JODY (Col. 160x200) 169X215,5X100",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [1660]}, {\"cat\": \"C2\", \"valores\": [1780]}, {\"cat\": \"C3\", \"valores\": [1973]}, {\"cat\": \"C4\", \"valores\": [2166]}, {\"cat\": \"C5\", \"valores\": [2455]}, {\"cat\": \"C6\", \"valores\": [2744]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "JODY CAMA",
+        "dims":  "[189.0, 216.0, 100.0]",
+        "floow_id":  "376231",
+        "floow_nome":  "Cama JODY (Col. 180x200) 189X215,5X100",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [1826]}, {\"cat\": \"C2\", \"valores\": [1958]}, {\"cat\": \"C3\", \"valores\": [2170]}, {\"cat\": \"C4\", \"valores\": [2383]}, {\"cat\": \"C5\", \"valores\": [2700]}, {\"cat\": \"C6\", \"valores\": [3019]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "SELENE CAMA",
+        "dims":  "[182.0, 213.0, 100.0]",
+        "floow_id":  "271272",
+        "floow_nome":  "Cama SELENE (Col 150x200) 182X212,6X100",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [1425]}, {\"cat\": \"C2\", \"valores\": [1564]}, {\"cat\": \"C3\", \"valores\": [1787]}, {\"cat\": \"C4\", \"valores\": [2009]}, {\"cat\": \"C5\", \"valores\": [2342]}, {\"cat\": \"C6\", \"valores\": [2675]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "SELENE CAMA",
+        "dims":  "[192.0, 213.0, 100.0]",
+        "floow_id":  "271273",
+        "floow_nome":  "Cama SELENE (Col 160x200) 192X212,6X100",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [1428]}, {\"cat\": \"C2\", \"valores\": [1571]}, {\"cat\": \"C3\", \"valores\": [1798]}, {\"cat\": \"C4\", \"valores\": [2024]}, {\"cat\": \"C5\", \"valores\": [2365]}, {\"cat\": \"C6\", \"valores\": [2706]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "BRUNY CAMA COM ACABAMENTO G1",
+        "dims":  "[157.0, 209.0, 106.0]",
+        "floow_id":  "383433",
+        "floow_nome":  "Cama BRUNY (Col 150x200) 157.2X208.7X105.5",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [1720]}, {\"cat\": \"C2\", \"valores\": [1791]}, {\"cat\": \"C3\", \"valores\": [1904]}, {\"cat\": \"C4\", \"valores\": [2019]}, {\"cat\": \"C5\", \"valores\": [2190]}, {\"cat\": \"C6\", \"valores\": [2361]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "BRUNY CAMA COM ACABAMENTO G1",
+        "dims":  "[167.0, 209.0, 106.0]",
+        "floow_id":  "383434",
+        "floow_nome":  "Cama BRUNY (Col 160x200) 167.2X208.7X105.5",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [1741]}, {\"cat\": \"C2\", \"valores\": [1815]}, {\"cat\": \"C3\", \"valores\": [1934]}, {\"cat\": \"C4\", \"valores\": [2053]}, {\"cat\": \"C5\", \"valores\": [2231]}, {\"cat\": \"C6\", \"valores\": [2410]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "BRUNY CAMA COM ACABAMENTO G1",
+        "dims":  "[187.0, 209.0, 106.0]",
+        "floow_id":  "383435",
+        "floow_nome":  "Cama BRUNY (Col 180x200) 187.2X208.7X105.5",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [1784]}, {\"cat\": \"C2\", \"valores\": [1863]}, {\"cat\": \"C3\", \"valores\": [1993]}, {\"cat\": \"C4\", \"valores\": [2122]}, {\"cat\": \"C5\", \"valores\": [2315]}, {\"cat\": \"C6\", \"valores\": [2508]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "BRUNY CAMA COM ACABAMENTO G2",
+        "dims":  "[157.0, 209.0, 106.0]",
+        "floow_id":  "383433",
+        "floow_nome":  "Cama BRUNY (Col 150x200) 157.2X208.7X105.5",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [2087]}, {\"cat\": \"C2\", \"valores\": [2157]}, {\"cat\": \"C3\", \"valores\": [2272]}, {\"cat\": \"C4\", \"valores\": [2385]}, {\"cat\": \"C5\", \"valores\": [2556]}, {\"cat\": \"C6\", \"valores\": [2727]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "BRUNY CAMA COM ACABAMENTO G2",
+        "dims":  "[167.0, 209.0, 106.0]",
+        "floow_id":  "383434",
+        "floow_nome":  "Cama BRUNY (Col 160x200) 167.2X208.7X105.5",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [2116]}, {\"cat\": \"C2\", \"valores\": [2190]}, {\"cat\": \"C3\", \"valores\": [2309]}, {\"cat\": \"C4\", \"valores\": [2427]}, {\"cat\": \"C5\", \"valores\": [2606]}, {\"cat\": \"C6\", \"valores\": [2784]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "BRUNY CAMA COM ACABAMENTO G2",
+        "dims":  "[187.0, 209.0, 106.0]",
+        "floow_id":  "383435",
+        "floow_nome":  "Cama BRUNY (Col 180x200) 187.2X208.7X105.5",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [2175]}, {\"cat\": \"C2\", \"valores\": [2255]}, {\"cat\": \"C3\", \"valores\": [2384]}, {\"cat\": \"C4\", \"valores\": [2513]}, {\"cat\": \"C5\", \"valores\": [2706]}, {\"cat\": \"C6\", \"valores\": [2899]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "BRUNY CAMA COM ACABAMENTO G3",
+        "dims":  "[157.0, 209.0, 106.0]",
+        "floow_id":  "383433",
+        "floow_nome":  "Cama BRUNY (Col 150x200) 157.2X208.7X105.5",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [2259]}, {\"cat\": \"C2\", \"valores\": [2330]}, {\"cat\": \"C3\", \"valores\": [2444]}, {\"cat\": \"C4\", \"valores\": [2558]}, {\"cat\": \"C5\", \"valores\": [2729]}, {\"cat\": \"C6\", \"valores\": [2900]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "BRUNY CAMA COM ACABAMENTO G3",
+        "dims":  "[167.0, 209.0, 106.0]",
+        "floow_id":  "383434",
+        "floow_nome":  "Cama BRUNY (Col 160x200) 167.2X208.7X105.5",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [2296]}, {\"cat\": \"C2\", \"valores\": [2370]}, {\"cat\": \"C3\", \"valores\": [2489]}, {\"cat\": \"C4\", \"valores\": [2607]}, {\"cat\": \"C5\", \"valores\": [2786]}, {\"cat\": \"C6\", \"valores\": [2964]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "BRUNY CAMA COM ACABAMENTO G3",
+        "dims":  "[187.0, 209.0, 106.0]",
+        "floow_id":  "383435",
+        "floow_nome":  "Cama BRUNY (Col 180x200) 187.2X208.7X105.5",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [2370]}, {\"cat\": \"C2\", \"valores\": [2449]}, {\"cat\": \"C3\", \"valores\": [2578]}, {\"cat\": \"C4\", \"valores\": [2708]}, {\"cat\": \"C5\", \"valores\": [2901]}, {\"cat\": \"C6\", \"valores\": [3094]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "LARISSA CAMA",
+        "dims":  "[192.0, 219.0, 100.0]",
+        "floow_id":  "329240",
+        "floow_nome":  "Cama LARISSA (Col 160x200) 192X218.5X100",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [2180]}, {\"cat\": \"C2\", \"valores\": [2400]}, {\"cat\": \"C3\", \"valores\": [2750]}, {\"cat\": \"C4\", \"valores\": [3101]}, {\"cat\": \"C5\", \"valores\": [3627]}, {\"cat\": \"C6\", \"valores\": [4153]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "LARISSA CAMA",
+        "dims":  "[212.0, 219.0, 100.0]",
+        "floow_id":  "329241",
+        "floow_nome":  "Cama LARISSA (Col 180x200) 212X218.5X100",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [2237]}, {\"cat\": \"C2\", \"valores\": [2462]}, {\"cat\": \"C3\", \"valores\": [2823]}, {\"cat\": \"C4\", \"valores\": [3185]}, {\"cat\": \"C5\", \"valores\": [3724]}, {\"cat\": \"C6\", \"valores\": [4265]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "CLARE CAMA COM PELE NATURAL",
+        "dims":  "[172.0, 215.0, 95.0]",
+        "floow_id":  "424934",
+        "floow_nome":  "Cama CLARE (Col 160x200) 172X215.5X95",
+        "precos_v015":  "[{\"cat\": \"PVP\", \"valores\": [3245]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "CLARE CAMA COM PELE NATURAL",
+        "dims":  "[192.0, 215.0, 95.0]",
+        "floow_id":  "424935",
+        "floow_nome":  "Cama CLARE (Col 180x200) 192X215.5X95",
+        "precos_v015":  "[{\"cat\": \"PVP\", \"valores\": [3537]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "CLARE CAMA COM PELE SINTÉTICA",
+        "dims":  "[172.0, 215.0, 95.0]",
+        "floow_id":  "424934",
+        "floow_nome":  "Cama CLARE (Col 160x200) 172X215.5X95",
+        "precos_v015":  "[{\"cat\": \"PVP\", \"valores\": [2954]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "CLARE CAMA COM PELE SINTÉTICA",
+        "dims":  "[192.0, 215.0, 95.0]",
+        "floow_id":  "424935",
+        "floow_nome":  "Cama CLARE (Col 180x200) 192X215.5X95",
+        "precos_v015":  "[{\"cat\": \"PVP\", \"valores\": [3228]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "ALASCA CABECEIRA",
+        "dims":  "[98.0, 6.0, 120.0]",
+        "floow_id":  "70348",
+        "floow_nome":  "Cabeceira ALASCA 98X6X120",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [1726]}, {\"cat\": \"C2\", \"valores\": [2752]}, {\"cat\": \"C3\", \"valores\": [3788]}, {\"cat\": \"C4\", \"valores\": [4844]}, {\"cat\": \"C5\", \"valores\": [5904]}, {\"cat\": \"C6\", \"valores\": [6974]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "ALASCA CABECEIRA",
+        "dims":  "[150.0, 6.0, 120.0]",
+        "floow_id":  "70347",
+        "floow_nome":  "Cabeceira ALASCA 150X6X120",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [1823]}, {\"cat\": \"C2\", \"valores\": [2882]}, {\"cat\": \"C3\", \"valores\": [3974]}, {\"cat\": \"C4\", \"valores\": [1067]}, {\"cat\": \"C5\", \"valores\": [1207]}, {\"cat\": \"C6\", \"valores\": [1353]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "ALASCA CABECEIRA",
+        "dims":  "[160.0, 6.0, 120.0]",
+        "floow_id":  "70346",
+        "floow_nome":  "Cabeceira ALASCA 160X6X120",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [1837]}, {\"cat\": \"C2\", \"valores\": [2899]}, {\"cat\": \"C3\", \"valores\": [3998]}, {\"cat\": \"C4\", \"valores\": [1096]}, {\"cat\": \"C5\", \"valores\": [1245]}, {\"cat\": \"C6\", \"valores\": [1401]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "ALASCA CABECEIRA",
+        "dims":  "[180.0, 6.0, 120.0]",
+        "floow_id":  "66064",
+        "floow_nome":  "Cabeceira ALASCA 180X6X120",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [1864]}, {\"cat\": \"C2\", \"valores\": [2935]}, {\"cat\": \"C3\", \"valores\": [1047]}, {\"cat\": \"C4\", \"valores\": [1155]}, {\"cat\": \"C5\", \"valores\": [1325]}, {\"cat\": \"C6\", \"valores\": [1499]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "USO CÓMODA",
+        "dims":  "[136.0, 55.0, 71.0]",
+        "floow_id":  "403853",
+        "floow_nome":  "Cómoda USO 136X53X71",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [1457]}, {\"cat\": \"G2\", \"valores\": [1787]}, {\"cat\": \"G3\", \"valores\": [1952]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "USO - MFC CLEAF CÓMODA",
+        "dims":  "[136.0, 55.0, 71.0]",
+        "floow_id":  "403853",
+        "floow_nome":  "Cómoda USO 136X53X71",
+        "precos_v015":  "[{\"cat\": \"PVP\", \"valores\": [937]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "ENDY CÓMODA COM 3 GAVETAS",
+        "dims":  "[120.0, 55.0, 90.0]",
+        "floow_id":  "396376",
+        "floow_nome":  "Cómoda ENDY 3 Gav 120X55X90",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [1445]}, {\"cat\": \"G2\", \"valores\": [1608]}, {\"cat\": \"G3\", \"valores\": [1608]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "ENDY - MFC CLEAF CÓMODA COM 3 GAVETAS",
+        "dims":  "[120.0, 55.0, 90.0]",
+        "floow_id":  "396376",
+        "floow_nome":  "Cómoda ENDY 3 Gav 120X55X90",
+        "precos_v015":  "[{\"cat\": \"PVP\", \"valores\": [858]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "ENDY CÓMODA COM 6 GAVETAS",
+        "dims":  "[180.0, 55.0, 90.0]",
+        "floow_id":  "396388",
+        "floow_nome":  "Cómoda ENDY 6 Gav 180X55X90",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [1838]}, {\"cat\": \"G2\", \"valores\": [2120]}, {\"cat\": \"G3\", \"valores\": [2254]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "ENDY - MFC CLEAF CÓMODA COM 6 GAVETAS",
+        "dims":  "[180.0, 55.0, 90.0]",
+        "floow_id":  "396388",
+        "floow_nome":  "Cómoda ENDY 6 Gav 180X55X90",
+        "precos_v015":  "[{\"cat\": \"PVP\", \"valores\": [1293]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "LADY CÓMODA 4 GAVETAS COM RODAPÉ EM MADEIRA/LACADO",
+        "dims":  "[120.0, 53.0, 90.0]",
+        "floow_id":  "396732",
+        "floow_nome":  "Cómoda LADY 4 Gav 120X53X90",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [2015, 2081]}, {\"cat\": \"G2\", \"valores\": [2344, 2410]}, {\"cat\": \"G3\", \"valores\": [2461, 2526]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "LADY - MFC CLEAF CÓMODA 4 GAVETAS COM RODAPÉ EM MADEIRA/LACADO",
+        "dims":  "[120.0, 53.0, 90.0]",
+        "floow_id":  "396732",
+        "floow_nome":  "Cómoda LADY 4 Gav 120X53X90",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [1167, 1237]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "LADY CÓMODA 4 GAVETAS RODAPÉ EM MADEIRA/LACADO E TAMPO EM CERÂMICA",
+        "dims":  "[120.0, 53.0, 90.0]",
+        "floow_id":  "396732",
+        "floow_nome":  "Cómoda LADY 4 Gav 120X53X90",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [2298, 2363]}, {\"cat\": \"G2\", \"valores\": [2646, 2692]}, {\"cat\": \"G3\", \"valores\": [2743, 2809]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "LADY CÓMODA 8 GAVETAS RODAPÉ EM MADEIRA/LACADO",
+        "dims":  "[180.0, 53.0, 90.0]",
+        "floow_id":  "396733",
+        "floow_nome":  "Cómoda LADY 8 Gav 180X53X90",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [2454, 2585]}, {\"cat\": \"G2\", \"valores\": [2819, 2949]}, {\"cat\": \"G3\", \"valores\": [3008, 3138]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "LADY - MFC CLEAF CÓMODA 8 GAVETAS RODAPÉ EM MADEIRA/LACADO",
+        "dims":  "[180.0, 53.0, 90.0]",
+        "floow_id":  "396733",
+        "floow_nome":  "Cómoda LADY 8 Gav 180X53X90",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [1798, 1936]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "LADY CÓMODA 8 GAVETAS RODAPÉ EM MADEIRA/LACADO E TAMPO EM CERÂMICA",
+        "dims":  "[180.0, 53.0, 90.0]",
+        "floow_id":  "396733",
+        "floow_nome":  "Cómoda LADY 8 Gav 180X53X90",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [2902, 3034]}, {\"cat\": \"G2\", \"valores\": [3266, 3397]}, {\"cat\": \"G3\", \"valores\": [3456, 3586]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "ROSIE CÓMODA COM 3 GAVETAS",
+        "dims":  "[126.0, 53.0, 85.0]",
+        "floow_id":  "64672",
+        "floow_nome":  "Cómoda ROSIE 3 Gav 126X52.5X85",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [2258]}, {\"cat\": \"G2\", \"valores\": [2907]}, {\"cat\": \"G3\", \"valores\": [3016]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "ROSIE CÓMODA COM 6 GAVETAS",
+        "dims":  "[186.0, 53.0, 85.0]",
+        "floow_id":  "64674",
+        "floow_nome":  "Cómoda ROSIE 6 Gav 186X52.5X85",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [3166]}, {\"cat\": \"G2\", \"valores\": [3482]}, {\"cat\": \"G3\", \"valores\": [4114]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "DAKAR CÓMODA COM 3 GAVETAS",
+        "dims":  "[120.0, 50.0, 810.0]",
+        "floow_id":  "390082",
+        "floow_nome":  "Cómoda DAKAR 3 Gav 120X50X81",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [1529, 1621]}, {\"cat\": \"G2\", \"valores\": [1787, 1881]}, {\"cat\": \"G3\", \"valores\": [1897, 1990]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "DAKAR - MFC CLEAF CÓMODA COM 3 GAVETAS",
+        "dims":  "[120.0, 50.0, 810.0]",
+        "floow_id":  "390135",
+        "floow_nome":  "Cómoda DAKAR 6 Gav 150X50X80.5",
+        "precos_v015":  "[{\"cat\": \"PVP\", \"valores\": [1056]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "DAKAR CÓMODA COM 6 GAVETAS",
+        "dims":  "[150.0, 50.0, 810.0]",
+        "floow_id":  "390135",
+        "floow_nome":  "Cómoda DAKAR 6 Gav 150X50X80.5",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [1853, 1929]}, {\"cat\": \"G2\", \"valores\": [2113, 2187]}, {\"cat\": \"G3\", \"valores\": [2256, 2332]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "DAKAR - MFC CLEAF CÓMODA COM 6 GAVETAS",
+        "dims":  "[150.0, 50.0, 810.0]",
+        "floow_id":  "390135",
+        "floow_nome":  "Cómoda DAKAR 6 Gav 150X50X80.5",
+        "precos_v015":  "[{\"cat\": \"PVP\", \"valores\": [1283]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "ITHACA CÓMODA",
+        "dims":  "[120.0, 50.0, 92.0]",
+        "floow_id":  "394701",
+        "floow_nome":  "Cómoda ITHACA 120X50X92",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [1352, 1546]}, {\"cat\": \"G2\", \"valores\": [1744, 1937]}, {\"cat\": \"G3\", \"valores\": [1860, 2054]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "ITHACA - MFC CLEAF CÓMODA",
+        "dims":  "[120.0, 50.0, 92.0]",
+        "floow_id":  "394701",
+        "floow_nome":  "Cómoda ITHACA 120X50X92",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [1971, 1084]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "THEA CÓMODA COM 3 GAVETAS EM LAMINADO",
+        "dims":  "[110.0, 45.0, 90.0]",
+        "floow_id":  "302261",
+        "floow_nome":  "Cómoda 3 Gav THEA 110X45X90",
+        "precos_v015":  "[{\"cat\": \"PVP\", \"valores\": [1704]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "THEA CÓMODA COM 3 PRATELEIRAS EM LAMINADO",
+        "dims":  "[110.0, 45.0, 90.0]",
+        "floow_id":  "302261",
+        "floow_nome":  "Cómoda 3 Gav THEA 110X45X90",
+        "precos_v015":  "[{\"cat\": \"PVP\", \"valores\": [1680]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "PEMA CÓMODA COM PELE SINTÉTICA",
+        "dims":  "[136.0, 61.0, 85.0]",
+        "floow_id":  "287642",
+        "floow_nome":  "Cómoda PEMA 136X61X85",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [2101]}, {\"cat\": \"G2\", \"valores\": [2860]}, {\"cat\": \"G3\", \"valores\": [3018]}]",
+        "matriz_floow":  "{\"name\":null,\"value\":0}"
+    },
+    {
+        "nome_v015":  "PEMA CÓMODA COM PELE NATURAL",
+        "dims":  "[136.0, 61.0, 85.0]",
+        "floow_id":  "287642",
+        "floow_nome":  "Cómoda PEMA 136X61X85",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [2752]}, {\"cat\": \"G2\", \"valores\": [3511]}, {\"cat\": \"G3\", \"valores\": [3669]}]",
+        "matriz_floow":  "{\"name\":null,\"value\":0}"
+    },
+    {
+        "nome_v015":  "TETHYS CÓMODA EM LAMINADO",
+        "dims":  "[120.0, 50.0, 90.0]",
+        "floow_id":  "312249",
+        "floow_nome":  "Cómoda 3 Gav TETHYS 120X50X90",
+        "precos_v015":  "[{\"cat\": \"PVP\", \"valores\": [1511]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "USO MESA DE CABECEIRA COM 1 GAVETA",
+        "dims":  "[66.0, 43.0, 26.0]",
+        "floow_id":  "403816",
+        "floow_nome":  "Mesa de Cabeceira USO 1 Gav 66X43X25.5",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [1384]}, {\"cat\": \"G2\", \"valores\": [2471]}, {\"cat\": \"G3\", \"valores\": [3507]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "USO - MFC CLEAF MESA DE CABECEIRA COM 1 GAVETA",
+        "dims":  "[66.0, 43.0, 26.0]",
+        "floow_id":  "403816",
+        "floow_nome":  "Mesa de Cabeceira USO 1 Gav 66X43X25.5",
+        "precos_v015":  "[{\"cat\": \"PVP\", \"valores\": [324]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "USO MESA DE CABECEIRA COM 2 GAVETAS",
+        "dims":  "[66.0, 43.0, 42.0]",
+        "floow_id":  "403841",
+        "floow_nome":  "Mesa de Cabeceira USO 2 Gav 66X43X42",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [1446]}, {\"cat\": \"G2\", \"valores\": [2548]}, {\"cat\": \"G3\", \"valores\": [3595]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "USO - MFC CLEAF MESA DE CABECEIRA COM 2 GAVETAS",
+        "dims":  "[66.0, 43.0, 42.0]",
+        "floow_id":  "403841",
+        "floow_nome":  "Mesa de Cabeceira USO 2 Gav 66X43X42",
+        "precos_v015":  "[{\"cat\": \"PVP\", \"valores\": [433]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "EMILY MESA DE CABECEIRA 70",
+        "dims":  "[70.0, 52.0, 46.0]",
+        "floow_id":  "65566",
+        "floow_nome":  "Mesa de Cabeceira EMILY 70X50X46",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [1697, 787]}, {\"cat\": \"G2\", \"valores\": [2779, 876]}, {\"cat\": \"G3\", \"valores\": [3958, 1061]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "EMILY MESA DE CABECEIRA 55",
+        "dims":  "[55.0, 52.0, 46.0]",
+        "floow_id":  "65564",
+        "floow_nome":  "Mesa de Cabeceira EMILY 55X50X46",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [1671, 773]}, {\"cat\": \"G2\", \"valores\": [2742, 859]}, {\"cat\": \"G3\", \"valores\": [3827, 958]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "ESTER MESA DE CABECEIRA 50",
+        "dims":  "[50.0, 53.0, 55.0]",
+        "floow_id":  "65590",
+        "floow_nome":  "Mesa de Cabeceira ESTER 50X52.5X55",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [1622, 857]}, {\"cat\": \"G2\", \"valores\": [2693, 928]}, {\"cat\": \"G3\", \"valores\": [3716, 951]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "ESTER MESA DE CABECEIRA 70",
+        "dims":  "[70.0, 53.0, 55.0]",
+        "floow_id":  "65589",
+        "floow_nome":  "Mesa de Cabeceira ESTER 70X52.5X55",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [1643, 878]}, {\"cat\": \"G2\", \"valores\": [2716, 951]}, {\"cat\": \"G3\", \"valores\": [3748, 983]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "ENDY - MFC CLEAF MESA DE CABECEIRA 50",
+        "dims":  "[50.0, 50.0, 45.0]",
+        "floow_id":  "396414",
+        "floow_nome":  "Mesa de Cabeceira ENDY 50X50X45",
+        "precos_v015":  "[{\"cat\": \"PVP\", \"valores\": [468]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "ENDY MESA DE CABECEIRA 50",
+        "dims":  "[50.0, 50.0, 45.0]",
+        "floow_id":  "396414",
+        "floow_nome":  "Mesa de Cabeceira ENDY 50X50X45",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [1597]}, {\"cat\": \"G2\", \"valores\": [2660]}, {\"cat\": \"G3\", \"valores\": [3660]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "ENDY - MFC CLEAF MESA DE CABECEIRA COM 1 GAVETA",
+        "dims":  "[50.0, 50.0, 28.0]",
+        "floow_id":  "396401",
+        "floow_nome":  "Mesa de Cabeceira ENDY 1 Gav 50X50X27.5",
+        "precos_v015":  "[{\"cat\": \"PVP\", \"valores\": [459]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "ENDY MESA DE CABECEIRA COM 1 GAVETA",
+        "dims":  "[50.0, 50.0, 28.0]",
+        "floow_id":  "396401",
+        "floow_nome":  "Mesa de Cabeceira ENDY 1 Gav 50X50X27.5",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [1353]}, {\"cat\": \"G2\", \"valores\": [2468]}, {\"cat\": \"G3\", \"valores\": [3497]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "LADY - MFC CLEAF MESA DE CABECEIRA 60 RODAPÉ EM MADEIRA / LACADO",
+        "dims":  "[60.0, 53.0, 50.0]",
+        "floow_id":  "396734",
+        "floow_nome":  "Mesa de Cabeceira LADY 60X53X49",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [1545, 576]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "LADY MESA DE CABECEIRA 60 RODAPÉ EM MADEIRA / LACADO",
+        "dims":  "[60.0, 53.0, 49.0]",
+        "floow_id":  "396734",
+        "floow_nome":  "Mesa de Cabeceira LADY 60X53X49",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [1614, 646]}, {\"cat\": \"G2\", \"valores\": [2731, 763]}, {\"cat\": \"G3\", \"valores\": [3784, 818]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "LADY MESA DE CABECEIRA 60 RODAPÉ EM MADEIRA/LACADO TAMPO CERÂMICO",
+        "dims":  "[60.0, 53.0, 50.0]",
+        "floow_id":  "396734",
+        "floow_nome":  "Mesa de Cabeceira LADY 60X53X49",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [1798, 831]}, {\"cat\": \"G2\", \"valores\": [2915, 947]}, {\"cat\": \"G3\", \"valores\": [3968, 1002]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "ROSIE MESA DE CABECEIRA 56",
+        "dims":  "[56.0, 53.0, 55.0]",
+        "floow_id":  "65599",
+        "floow_nome":  "Mesa de Cabeceira ROSIE 56X52.5X55",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [1160]}, {\"cat\": \"G2\", \"valores\": [1417]}, {\"cat\": \"G3\", \"valores\": [1492]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "ROSIE MESA DE CABECEIRA 86",
+        "dims":  "[86.0, 53.0, 55.0]",
+        "floow_id":  "65600",
+        "floow_nome":  "Mesa de Cabeceira ROSIE 86X52.5X55",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [1371]}, {\"cat\": \"G2\", \"valores\": [1677]}, {\"cat\": \"G3\", \"valores\": [1761]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "MUCALA - MFC CLEAF MESA DE CABECEIRA 50",
+        "dims":  "[50.0, 51.0, 50.0]",
+        "floow_id":  "399191",
+        "floow_nome":  "Mesa de Cabeceira MUCALA 50X50X50",
+        "precos_v015":  "[{\"cat\": \"PVP\", \"valores\": [726]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "MUCALA MESA DE CABECEIRA 50",
+        "dims":  "[50.0, 51.0, 50.0]",
+        "floow_id":  "399191",
+        "floow_nome":  "Mesa de Cabeceira MUCALA 50X50X50",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [1772, 838]}, {\"cat\": \"G2\", \"valores\": [2895, 963]}, {\"cat\": \"G3\", \"valores\": [3975, 1036]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "DAKAR - MFC CLEAF MESA DE CABECEIRA 50",
+        "dims":  "[50.0, 50.0, 45.0]",
+        "floow_id":  "402602",
+        "floow_nome":  "Mesa de Cabeceira DAKAR 50X50X45",
+        "precos_v015":  "[{\"cat\": \"PVP\", \"valores\": [549]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "DAKAR MESA DE CABECEIRA 50",
+        "dims":  "[50.0, 50.0, 45.0]",
+        "floow_id":  "402602",
+        "floow_nome":  "Mesa de Cabeceira DAKAR 50X50X45",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [1630, 703]}, {\"cat\": \"G2\", \"valores\": [2698, 767]}, {\"cat\": \"G3\", \"valores\": [3748, 811]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "AMBER MESA DE CABECEIRA 55",
+        "dims":  "[55.0, 53.0, 55.0]",
+        "floow_id":  "96701",
+        "floow_nome":  "Mesa de Cabeceira AMBER 55X53X55",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [1710, 734]}, {\"cat\": \"G2\", \"valores\": [2810, 833]}, {\"cat\": \"G3\", \"valores\": [3860, 883]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "AMBER MESA DE CABECEIRA 65",
+        "dims":  "[65.0, 53.0, 55.0]",
+        "floow_id":  "96704",
+        "floow_nome":  "Mesa de Cabeceira AMBER 65X53X55",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [1725, 748]}, {\"cat\": \"G2\", \"valores\": [2827, 850]}, {\"cat\": \"G3\", \"valores\": [3882, 905]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "ROWLING MESA DE CABECEIRA",
+        "dims":  "[60.0, 53.0, 50.0]",
+        "floow_id":  "403076",
+        "floow_nome":  "Mesa de Cabeceira ROWLING  60X52.5X50",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [1428, 1677]}, {\"cat\": \"G2\", \"valores\": [1602, 1852]}, {\"cat\": \"G3\", \"valores\": [1669, 1918]}]",
+        "matriz_floow":  "{\"name\":null,\"value\":0}"
+    },
+    {
+        "nome_v015":  "NERA - MFC CLEAF MESA DE CABECEIRA",
+        "dims":  "[50.0, 40.0, 40.0]",
+        "floow_id":  "267156",
+        "floow_nome":  "Mesa de Cabeceira NERA 50X40X40",
+        "precos_v015":  "[{\"cat\": \"PVP\", \"valores\": [175]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "NERA MESA DE CABECEIRA",
+        "dims":  "[50.0, 40.0, 40.0]",
+        "floow_id":  "267156",
+        "floow_nome":  "Mesa de Cabeceira NERA 50X40X40",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [1189]}, {\"cat\": \"G2\", \"valores\": [2329]}, {\"cat\": \"G3\", \"valores\": [3354]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "NERA - MFC CLEAF MESA DE CABECEIRA COM 1 GAVETA",
+        "dims":  "[50.0, 40.0, 40.0]",
+        "floow_id":  "267156",
+        "floow_nome":  "Mesa de Cabeceira NERA 50X40X40",
+        "precos_v015":  "[{\"cat\": \"PVP\", \"valores\": [433]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "NERA MESA DE CABECEIRA COM 1 GAVETA",
+        "dims":  "[50.0, 40.0, 40.0]",
+        "floow_id":  "267156",
+        "floow_nome":  "Mesa de Cabeceira NERA 50X40X40",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [1270]}, {\"cat\": \"G2\", \"valores\": [2452]}, {\"cat\": \"G3\", \"valores\": [3485]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "ITHACA MESA DE CABECEIRA 60 COM 1 GAVETA",
+        "dims":  "[60.0, 45.0, 48.0]",
+        "floow_id":  "398741",
+        "floow_nome":  "Mesa de Cabeceira ITHACA c/ Gav 60X45X48",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [1411, 538]}, {\"cat\": \"G2\", \"valores\": [2612, 728]}, {\"cat\": \"G3\", \"valores\": [3639, 757]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "ITHACA - MFC CLEAF MESA DE CABECEIRA 60 COM 1 GAVETA",
+        "dims":  "[60.0, 45.0, 48.0]",
+        "floow_id":  "398741",
+        "floow_nome":  "Mesa de Cabeceira ITHACA c/ Gav 60X45X48",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [1385, 600]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "ITHACA MESA DE CABECEIRA 60",
+        "dims":  "[60.0, 45.0, 48.0]",
+        "floow_id":  "398741",
+        "floow_nome":  "Mesa de Cabeceira ITHACA c/ Gav 60X45X48",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [1324, 441]}, {\"cat\": \"G2\", \"valores\": [2443, 559]}, {\"cat\": \"G3\", \"valores\": [3453, 571]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "ITHACA - MFC CLEAF MESA DE CABECEIRA 60",
+        "dims":  "[60.0, 45.0, 48.0]",
+        "floow_id":  "398741",
+        "floow_nome":  "Mesa de Cabeceira ITHACA c/ Gav 60X45X48",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [1313, 462]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "BERNARDINO - MFC CLEAF  MESA DE CABECEIRA",
+        "dims":  "[50.0, 52.0, 32.0]",
+        "floow_id":  "390397",
+        "floow_nome":  "Mesa de Cabeceira BERNARDINO 50x52x32",
+        "precos_v015":  "[{\"cat\": \"PVP\", \"valores\": [338]}]",
+        "matriz_floow":  "{\"name\":null,\"value\":0}"
+    },
+    {
+        "nome_v015":  "AMORIM - MFC CLEAF MESA DE CABECEIRA",
+        "dims":  "[50.0, 50.0, 30.0]",
+        "floow_id":  "360435",
+        "floow_nome":  "Mesa de Cabeceira AMORIM 50x50x30",
+        "precos_v015":  "[{\"cat\": \"PVP\", \"valores\": [282]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "THEA MESA DE CABECEIRA EM LAMINADO",
+        "dims":  "[50.0, 40.0, 45.0]",
+        "floow_id":  "302258",
+        "floow_nome":  "Mesa de Cabeceira THEA 50X40X45",
+        "precos_v015":  "[{\"cat\": \"PVP\", \"valores\": [375]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "PEMA MESA DE CABECEIRA COM PELE SINTÉTICA",
+        "dims":  "[57.0, 52.0, 45.0]",
+        "floow_id":  "365453",
+        "floow_nome":  "Mesa de Cabeceira PEMA 57X52X45",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [1786]}, {\"cat\": \"G2\", \"valores\": [1115]}, {\"cat\": \"G3\", \"valores\": [1173]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "PEMA MESA DE CABECEIRA COM PELE NATURAL",
+        "dims":  "[57.0, 52.0, 45.0]",
+        "floow_id":  "365453",
+        "floow_nome":  "Mesa de Cabeceira PEMA 57X52X45",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [1994]}, {\"cat\": \"G2\", \"valores\": [1323]}, {\"cat\": \"G3\", \"valores\": [1381]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "TETHYS MESA DE CABECEIRA EM LAMINADO",
+        "dims":  "[50.0, 40.0, 40.0]",
+        "floow_id":  "312248",
+        "floow_nome":  "Mesa de Cabeceira TETHYS 50X40X40",
+        "precos_v015":  "[{\"cat\": \"PVP\", \"valores\": [409]}, {\"cat\": \"PVP\", \"valores\": [377]}, {\"cat\": \"PVP\", \"valores\": [442]}, {\"cat\": \"PVP\", \"valores\": [453]}, {\"cat\": \"PVP\", \"valores\": [505]}, {\"cat\": \"PVP\", \"valores\": [50]}, {\"cat\": \"PVP\", \"valores\": [107]}, {\"cat\": \"PVP\", \"valores\": [107]}, {\"cat\": \"PVP\", \"valores\": [121]}, {\"cat\": \"PVP\", \"valores\": [520]}, {\"cat\": \"PVP\", \"valores\": [669]}, {\"cat\": \"PVP\", \"valores\": [669]}, {\"cat\": \"PVP\", \"valores\": [745]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "LOREN CADEIRA DE ESCRITÓRIO",
+        "dims":  "[59.0, 54.0, 82.0]",
+        "floow_id":  "63464",
+        "floow_nome":  "Cadeira LOREN 59X53X85",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [1819, 1036]}, {\"cat\": \"C2\", \"valores\": [2875, 1093]}, {\"cat\": \"C3\", \"valores\": [3964, 1181]}, {\"cat\": \"C4\", \"valores\": [1054, 1272]}, {\"cat\": \"C5\", \"valores\": [1190, 1431]}, {\"cat\": \"C6\", \"valores\": [1344, 1597]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "AMBROSE CADEIRA DE ESCRITÓRIO",
+        "dims":  "[61.0, 57.0, 83.0]",
+        "floow_id":  "370975",
+        "floow_nome":  "Cadeira AMBROSE 61X57X82",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [1993]}, {\"cat\": \"C2\", \"valores\": [1044]}, {\"cat\": \"C3\", \"valores\": [1125]}, {\"cat\": \"C4\", \"valores\": [1207]}, {\"cat\": \"C5\", \"valores\": [1329]}, {\"cat\": \"C6\", \"valores\": [1451]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "HAIA II CADEIRA",
+        "dims":  "[57.0, 52.0, 77.0]",
+        "floow_id":  "203628",
+        "floow_nome":  "Cadeira HAIA II 55X52X78",
+        "precos_v015":  "[{\"cat\": \"C1\", \"valores\": [1831, 889]}, {\"cat\": \"C2\", \"valores\": [2867, 925]}, {\"cat\": \"C3\", \"valores\": [3925, 984]}, {\"cat\": \"C4\", \"valores\": [4984, 1042]}, {\"cat\": \"C5\", \"valores\": [1071, 1130]}, {\"cat\": \"C6\", \"valores\": [1159, 1218]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "PRAGA ESTANTE",
+        "dims":  "[210.0, 41.0, 211.0]",
+        "floow_id":  "408588",
+        "floow_nome":  "Estante PRAGA 210X41X211",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [3642, 4407]}, {\"cat\": \"G2\", \"valores\": [4172, 4981]}, {\"cat\": \"G3\", \"valores\": [5141, 6083]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "BIEL ESTANTE",
+        "dims":  "[124.0, 39.0, 200.0]",
+        "floow_id":  "403429",
+        "floow_nome":  "Estante BIEL 124X39X200",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [1857]}, {\"cat\": \"G2\", \"valores\": [2516]}, {\"cat\": \"G3\", \"valores\": [2651]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "BIEL - MFC CLEAF ESTANTE",
+        "dims":  "[124.0, 39.0, 200.0]",
+        "floow_id":  "403429",
+        "floow_nome":  "Estante BIEL 124X39X200",
+        "precos_v015":  "[{\"cat\": \"PVP\", \"valores\": [1133]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "CARVALHO - MFC CLEAF  ESTANTE",
+        "dims":  "[140.0, 40.0, 172.0]",
+        "floow_id":  "390403",
+        "floow_nome":  "Estante CARVALHO 140x40x172",
+        "precos_v015":  "[{\"cat\": \"PVP\", \"valores\": [793]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "EMY MÓDULO ESTANTE",
+        "dims":  "[180.0, 40.0, 45.0]",
+        "floow_id":  "96713",
+        "floow_nome":  "Estante EMY 180X40X45",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [1753, 975]}, {\"cat\": \"G2\", \"valores\": [1149, 1371]}, {\"cat\": \"G3\", \"valores\": [1223, 1445]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "THERA ESTANTE",
+        "dims":  "[100.0, 40.0, 181.0]",
+        "floow_id":  "388979",
+        "floow_nome":  "Estante THERA 100X40X180",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [1238]}, {\"cat\": \"G2\", \"valores\": [1806]}, {\"cat\": \"G3\", \"valores\": [1936]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "ELECTRA ESTANTE COM GAVETAS EM LAMINADO",
+        "dims":  "[80.0, 35.0, 197.0]",
+        "floow_id":  "301995",
+        "floow_nome":  "Estante c/ Gavetas ELECTRA 80X35X197",
+        "precos_v015":  "[{\"cat\": \"PVP\", \"valores\": [1400]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "ELECTRA ESTANTE EM LAMINADO",
+        "dims":  "[80.0, 35.0, 197.0]",
+        "floow_id":  "301995",
+        "floow_nome":  "Estante c/ Gavetas ELECTRA 80X35X197",
+        "precos_v015":  "[{\"cat\": \"PVP\", \"valores\": [1034]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "MANDELA ESTANTE 220 COM PORMENORES LACADOS",
+        "dims":  "[220.0, 40.0, 195.0]",
+        "floow_id":  "287634",
+        "floow_nome":  "Estante MANDELA 220X40X195",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [1991]}, {\"cat\": \"G2\", \"valores\": [2353]}, {\"cat\": \"G3\", \"valores\": [2626]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "MANDELA ESTANTE 320 COM PORMENORES LACADOS",
+        "dims":  "[320.0, 50.0, 238.0]",
+        "floow_id":  "339351",
+        "floow_nome":  "Estante MANDELA 320X50X238",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [2933]}, {\"cat\": \"G2\", \"valores\": [3502]}, {\"cat\": \"G3\", \"valores\": [4090]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "MANDELA ESTANTE 320",
+        "dims":  "[320.0, 50.0, 238.0]",
+        "floow_id":  "339351",
+        "floow_nome":  "Estante MANDELA 320X50X238",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [5346]}, {\"cat\": \"G2\", \"valores\": [5915]}, {\"cat\": \"G3\", \"valores\": [6504]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "MANDELA ESTANTE 220",
+        "dims":  "[220.0, 40.0, 195.0]",
+        "floow_id":  "287634",
+        "floow_nome":  "Estante MANDELA 220X40X195",
+        "precos_v015":  "[{\"cat\": \"G1\", \"valores\": [3371]}, {\"cat\": \"G2\", \"valores\": [3733]}, {\"cat\": \"G3\", \"valores\": [4006]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "NYSA ESTANTE EM LAMINADO",
+        "dims":  "[107.0, 40.0, 129.0]",
+        "floow_id":  "311963",
+        "floow_nome":  "Estante c/ Gavetas NYSA 107X40X129",
+        "precos_v015":  "[{\"cat\": \"PVP\", \"valores\": [1067]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "NYSA ESTANTE COM 2 PORTAS EM LAMINADO",
+        "dims":  "[107.0, 40.0, 129.0]",
+        "floow_id":  "311963",
+        "floow_nome":  "Estante c/ Gavetas NYSA 107X40X129",
+        "precos_v015":  "[{\"cat\": \"PVP\", \"valores\": [1326]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "NYSA ESTANTE COM 4 GAVETAS EM LAMINADO",
+        "dims":  "[107.0, 40.0, 129.0]",
+        "floow_id":  "311963",
+        "floow_nome":  "Estante c/ Gavetas NYSA 107X40X129",
+        "precos_v015":  "[{\"cat\": \"PVP\", \"valores\": [1582]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "QUENTIN CANDEEIRO MESA EM PEDRA",
+        "dims":  "[12.0, 12.0, 51.0]",
+        "floow_id":  "64897",
+        "floow_nome":  "Candeeiro Mesa QUENTIN 12X12X54",
+        "precos_v015":  "[{\"cat\": \"PVP\", \"valores\": [823]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "QUENTIN CANDEEIRO MESA LACADO/FOLHEADO",
+        "dims":  "[12.0, 12.0, 51.0]",
+        "floow_id":  "64897",
+        "floow_nome":  "Candeeiro Mesa QUENTIN 12X12X54",
+        "precos_v015":  "[{\"cat\": \"PVP\", \"valores\": [582]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "JACK CANDEEIRO MESA EM PEDRA",
+        "dims":  "[12.0, 12.0, 52.0]",
+        "floow_id":  "64951",
+        "floow_nome":  "Candeeiro Mesa JACK 12X12X52",
+        "precos_v015":  "[{\"cat\": \"PVP\", \"valores\": [1388]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "JACK CANDEEIRO MESA LACADO/FOLHEADO",
+        "dims":  "[12.0, 12.0, 52.0]",
+        "floow_id":  "64951",
+        "floow_nome":  "Candeeiro Mesa JACK 12X12X52",
+        "precos_v015":  "[{\"cat\": \"PVP\", \"valores\": [864]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "LITTLE JACK CANDEEIRO MESA EM PEDRA",
+        "dims":  "[18.0, 18.0, 27.0]",
+        "floow_id":  "64952",
+        "floow_nome":  "Candeeiro Mesa LITTLE JACK 18X18X27",
+        "precos_v015":  "[{\"cat\": \"PVP\", \"valores\": [1083]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "LITTLE JACK CANDEEIRO MESA LACADO/FOLHEADO",
+        "dims":  "[18.0, 18.0, 27.0]",
+        "floow_id":  "64952",
+        "floow_nome":  "Candeeiro Mesa LITTLE JACK 18X18X27",
+        "precos_v015":  "[{\"cat\": \"PVP\", \"valores\": [749]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "JONES CANDEEIRO MESA",
+        "dims":  "[25.0, 25.0, 48.0]",
+        "floow_id":  "95823",
+        "floow_nome":  "Candeeiro Mesa JONES SMALL D25X48",
+        "precos_v015":  "[{\"cat\": \"PVP\", \"valores\": [499]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "CLARKE CANDEEIRO MESA M1",
+        "dims":  "[25.0, 27.0, 50.0]",
+        "floow_id":  "95826",
+        "floow_nome":  "Candeeiro CLARKE 25X27X50",
+        "precos_v015":  "[{\"cat\": \"PVP\", \"valores\": [931]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "CLARKE CANDEEIRO MESA M2",
+        "dims":  "[25.0, 27.0, 50.0]",
+        "floow_id":  "95826",
+        "floow_nome":  "Candeeiro CLARKE 25X27X50",
+        "precos_v015":  "[{\"cat\": \"PVP\", \"valores\": [1060]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "WALKER CANDEEIRO MESA",
+        "dims":  "[19.0, 18.0, 38.0]",
+        "floow_id":  "71590",
+        "floow_nome":  "Candeeiro WALKER  19X18X38",
+        "precos_v015":  "[{\"cat\": \"PVP\", \"valores\": [655]}]",
+        "matriz_floow":  "{\"name\":\"G\",\"value\":525}"
+    },
+    {
+        "nome_v015":  "WRIGHT CANDEEIRO MESA",
+        "dims":  "[37.0, 13.0, 38.0]",
+        "floow_id":  "71591",
+        "floow_nome":  "Candeeiro WRIGHT 36.5X12.5X37.5",
+        "precos_v015":  "[{\"cat\": \"PVP\", \"valores\": [716]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "RANDOLPH CANDEEIRO PÉ",
+        "dims":  "[143.0, 35.0, 120.0]",
+        "floow_id":  "64912",
+        "floow_nome":  "Candeeiro Pé RANDOLPH 143X35X120",
+        "precos_v015":  "[{\"cat\": \"PVP\", \"valores\": [1413]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "JONES CANDEEIRO PÉ",
+        "dims":  "[35.0, 35.0, 130.0]",
+        "floow_id":  "95822",
+        "floow_nome":  "Candeeiro Pé JONES D35X130",
+        "precos_v015":  "[{\"cat\": \"PVP\", \"valores\": [721]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "EVANS CANDEEIRO PÉ M1",
+        "dims":  "[18.0, 28.0, 154.0]",
+        "floow_id":  "95833",
+        "floow_nome":  "Candeeiro de Pé EVANS 18X28X154",
+        "precos_v015":  "[{\"cat\": \"PVP\", \"valores\": [1223]}]",
+        "matriz_floow":  {
+
+                         }
+    },
+    {
+        "nome_v015":  "EVANS CANDEEIRO PÉ M2",
+        "dims":  "[18.0, 28.0, 154.0]",
+        "floow_id":  "95833",
+        "floow_nome":  "Candeeiro de Pé EVANS 18X28X154",
+        "precos_v015":  "[{\"cat\": \"PVP\", \"valores\": [1354]}, {\"cat\": \"PVP\", \"valores\": [780]}]",
+        "matriz_floow":  {
+
+                         }
+    }
+]
